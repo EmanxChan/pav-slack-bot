@@ -1,11 +1,8 @@
 {
   "name": "pav-slack-bot",
   "version": "2.0.0",
-  "main": "dist/index.js",
   "scripts": {
-    "start": "node dist/index.js",
     "dev": "ts-node src/index.ts",
-    "build": "tsc",
     "typecheck": "tsc --noEmit",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
