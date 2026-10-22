@@ -1,4 +1,4 @@
-export default async function handler(req, res) {
+module.exports = (req, res) => {
   console.log('Slack events endpoint called');
   console.log('Request method:', req.method);
   console.log('Request body:', req.body);
@@ -12,4 +12,4 @@ export default async function handler(req, res) {
   // For other events
   console.log('Event type:', req.body.type);
   res.status(200).json({ ok: true });
-}
+};
