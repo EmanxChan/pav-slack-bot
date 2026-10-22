@@ -1,8 +1,9 @@
 {
+  "buildCommand": "npm run build",
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/api/index.js"
+      "destination": "/api/index"
     }
   ],
   "crons": [
