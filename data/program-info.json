@@ -1,0 +1,261 @@
+{
+  "program": {
+    "name": "Strategic Planning Sprint",
+    "overview": "A company's strategic plan is essential to making decisions, especially when resources are limited. You will leave this intensive with a working strategic plan that answers two fundamental questions: Where are we going, and how will we get there? You will define your mission, vision, and values; establish financial and other goals for the next three years; and identify the strategic initiatives and priorities needed to achieve them. You will also outline near-term tactics, the resources required to execute your plan, and metrics to gauge progress and effectiveness. Lastly, you will receive a customizable dashboard template designed for use with AI to help monitor progress against your strategic plan and support ongoing decision-making.",
+    "keyDates": {
+      "sendApplications": "Thursday, October 1",
+      "applicationDeadline": "Sunday, October 11",
+      "selectAndNotify": "Tuesday, October 13",
+      "preWorkStart": "Wednesday, October 21",
+      "courseStart": "Wednesday, October 28",
+      "courseEnd": "Monday, November 9",
+      "presentationToPAV": "Monday, November 9"
+    },
+    "learningOutcomes": [
+      "Define a clear 3-year strategic direction, including mission, vision, values, and financial and non-financial goals.",
+      "Translate that direction into focused strategic initiatives, priorities, tactics, and resource requirements to be used in aligning team and in making decisions.",
+      "Establish meaningful metrics and a dashboard approach to monitor progress and support ongoing decision-making.",
+      "Pressure-test and strengthen their strategic plan through structured peer feedback and individual advisor coaching.",
+      "Deepen their relationships with PAV community, PAV and advisors"
+    ],
+    "measuresOfSuccess": [
+      "Strong participation: Founders attend and actively engage in workshops, peer sessions, and advisor coaching.",
+      "High-quality working strategic plans: Founders complete a focused, coherent, and actionable strategic plan and final presentation.",
+      "Effective peer learning: Founders provide useful feedback and build meaningful peer relationships.",
+      "Positive founder experience: Participants report the course was relevant, practical, and improved strategic clarity.",
+      "Expanded PAV network: The course brings qualified non-PAV founders into the PAV ecosystem.",
+      "Ongoing plan use and progress: Within 6–12 months, founders are reviewing and updating their plans regularly, using metrics to guide decisions, and making meaningful progress or pivots against strategic priorities."
+    ],
+    "targetStudents": 10,
+    "studentCriteria": {
+      "companyFit": "PAV and select non-PAV participants, especially more mature companies that could become future Navigate or investment candidates. Consumer product companies relevant to outdoor/active categories and aligned with REI merchandising goals.",
+      "businessMaturity": "Product in market with demonstrated traction. At least 1 year of meaningful in-market experience. $100K+ annual revenue recommended, but not required; stage and traction matter more than a hard threshold. Established team or regular external resources beyond the founder.",
+      "strategicReadiness": "Facing meaningful choices about growth, channels, products, team and/or resource allocation. Access to current financials and ability to develop reasonable 3-year revenue, profit and cash assumptions. Participant is CEO/Founder or has authority to make company-level strategic decisions.",
+      "founderCommitment": "Working full-time on the business with no other full-time job. Willing to commit ~15 hours across pre-work, workshops, independent work, peer sessions and advisor coaching. Willing to share candidly, maintain confidentiality and provide substantive peer feedback."
+    },
+    "timeInvestment": "15 hours over 2.5 weeks including pre-work",
+    "studentDeliverables": [
+      "Review and complete homework in prep for each session",
+      "Attend two 2.5 hr sessions",
+      "Meet with peers & advisors",
+      "Complete a 2-pg plan",
+      "Present plan to PAV team"
+    ],
+    "marketingPlan": [
+      "Personal networking by PAV team and advisors including investment candidates",
+      "Promote via PAV slack and email list(s)",
+      "Ask Founded Outdoors to promote to their mature companies"
+    ],
+    "roles": {
+      "workshopLeads": "Mina and Mona to recommend strategy, prepare course materials, lead class sessions, and provide 1:1 coaching to founders",
+      "pavStaff": "PAV staff to approve project plan, execute marketing to recruit founders, and provide back-end logistical support: create and send founder application; assist with final decision-making on candidates; schedule and manage sessions including video recordings; collect and send materials out to founders; create and manage an intensive Slack channel"
+    },
+    "budget": "$17K",
+    "budgetLink": "https://docs.google.com/spreadsheets/d/1fnGLuTvyrS7noD6583Z0y6o6QTL_0WjJ1eAJkt5QdQo/edit?usp=sharing"
+  },
+  "curriculum": [
+    {
+      "date": "Thursday, October 1",
+      "activity": "Send out Application"
+    },
+    {
+      "date": "Sunday, October 11",
+      "activity": "Applications due"
+    },
+    {
+      "date": "Tuesday, October 13",
+      "activity": "Select & notify candidates"
+    },
+    {
+      "date": "Wednesday, October 21",
+      "activity": "Pre-work opens",
+      "details": "Review materials; draft Mission/Vision/Values; preliminary 3-year financial goals; complete Defining Choices; complete ROOLA questionnaire.",
+      "homework": [
+        "Read pre-read deck",
+        "Read Lumi case for context during strategic plan template discussion",
+        "Draft mission/vision/values",
+        "Draft 3-year revenue/profit/cash",
+        "Think about Where to Play/How to Win questions",
+        "ROOLA Questionnaire – finances/choices like breakeven/marketing spend/gross margin/sku/ops"
+      ],
+      "resources": {
+        "strategicPlanDemo": "Inputs demo and Strategic Plan",
+        "growthReadinessReport": "https://demo.roolsystem.com",
+        "inputsDemo": "https://inputs-demo.roolsystem.com",
+        "demoPassword": "rooldemo2026"
+      }
+    },
+    {
+      "date": "Wednesday, October 28",
+      "time": "10-12:30 PT",
+      "activity": "Workshop 1: Strategic Direction & Choices",
+      "details": "Get to know each other; Mission/Vision/Values, 3-year goals, defining choices, peer review of 3-yr Goals and strategic choices; Strategic Initiatives and Essential Priorities",
+      "agenda": [
+        "Lecture - mission/vision",
+        "Class share",
+        "Lecture: Defining choices + strategic init/priorities",
+        "Groups - homework questions discussion on goals and strategic choices (individual companies) small groups are permanent",
+        "Lumi pg 1",
+        "Big group share"
+      ],
+      "homework": [
+        "Review ROOLA draft of Pages 1, 2 of strategic plan",
+        "Draft Strategic Initiatives, Priorities, Measurements"
+      ]
+    },
+    {
+      "date": "Thursday, October 29",
+      "activity": "Independent work",
+      "details": "Draft Page 1 in prep for peer feedback session. Then pick 1 strategic initiative and do measurements and tactics in prep for Workshop 2 discussion."
+    },
+    {
+      "date": "Friday, October 30",
+      "time": "10-11 PT",
+      "activity": "Peer Feedback Session",
+      "details": "Pressure-test goals, strategic initiatives, priorities and major tradeoffs, measurements (founder-only groups of 3-4)"
+    },
+    {
+      "date": "Friday, October 30 - Tuesday, November 3",
+      "activity": "Advisor Coaching #1",
+      "details": "Review and strengthen Page 1 and overall strategic direction. 6 companies each for Mina & Mona.",
+      "signUpSheet": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0",
+      "minaSchedule": {
+        "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
+        "zoomShort": "https://bitli.pro/2jfKQ_422000d7",
+        "slots": [
+          "Friday (PT): 1-2, 2-3",
+          "Monday (PT): 8-9, 9-10, Noon-1",
+          "Tuesday (PT): 9-10"
+        ]
+      },
+      "monaSchedule": {
+        "zoom": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1",
+        "slots": [
+          "Friday (PT): 12-1, 1-2, 3-4",
+          "Monday (PT): 10-11, 11-12, 2-3"
+        ]
+      }
+    },
+    {
+      "date": "Tuesday, November 3",
+      "time": "12-2:30 PT",
+      "activity": "Workshop 2: Execution & Measurement",
+      "details": "Large group discussion: surprising things, what they learned from peer group, measurements – what will be hard, surprising ways of measuring things, etc. Pg. 1 Strategic initiatives, priorities, measurements debrief. Pg 2 Intro to Tactics/owners, resources (lumi case illustration). Small group (working session - discuss tactics for strategic choice selected). Share out. Pt. 3. Dashboard/review approach.",
+      "agenda": [
+        "Large group discussion: surprising things, what they learned from peer group, measurements (20 mins)",
+        "Pg. 1 Strategic initiatives, priorities, measurements debrief (large group discussion)",
+        "Pg 2 Intro to Tactics/owners, resources (lumi case illustration) (20 min)",
+        "Small group (working session - discuss tactics for strategic choice selected) (30 min)",
+        "Share out",
+        "Pt. 3. Dashboard/review approach"
+      ],
+      "homework": [
+        "Complete pg two of strategic plan",
+        "outline 4 initiatives, Pick one most important, why most important to goal, how will measure strategic initiative, why it important to your goal. Measurement. Goals, 4 strat initiatives 1 slide. Selected another slide."
+      ]
+    },
+    {
+      "date": "Wednesday, November 4",
+      "activity": "Independent work",
+      "details": "Write and refine Page 2 all; integrate Pages 1 and 2 into a complete plan"
+    },
+    {
+      "date": "Thursday, November 5 - Friday, November 6",
+      "activity": "Advisor Coaching #2",
+      "details": "Final strategic review and refinement; prepare for PAV presentation. 6 companies each.",
+      "signUpSheet": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0",
+      "minaSchedule": {
+        "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
+        "slots": [
+          "Thursday (PT): 9-10, 10-11, 1-2",
+          "Friday (PT): 9-10, 10-11, 1-2"
+        ]
+      },
+      "monaSchedule": {
+        "zoom": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1",
+        "slots": [
+          "Thursday (PT): 12-1, 1-2, 3-4",
+          "Friday (PT): 10-11, 11-12, 1-2"
+        ]
+      }
+    },
+    {
+      "date": "Tuesday, November 10",
+      "time": "12pm - 2pm PT",
+      "activity": "Presentation to PAV",
+      "details": "Present page 1 of strategic plan (to Keenan, E-man, Elizabeth?), and turn full plan in (pages 1 & 2)",
+      "dueDate": "Slides and two-page plan due to Eman by t-1day"
+    }
+  ],
+  "postCourse": [
+    "Dashboard template leave-behind",
+    "Follow-up satisfaction survey",
+    "Check-in meeting with advisor after 6-12 months"
+  ],
+  "application": {
+    "formReference": "https://docs.google.com/forms/d/1cHxUgJ8KUW78mGLcitOxPyI9-1YgCthBR0v8bAhCjzg/edit",
+    "deadline": "5PM SUNDAY, OCTOBER 11",
+    "description": "Path Ahead Ventures Strategic Planning Sprint (pre-work starts October 21; course runs October 28 - November 9)",
+    "criteria": [
+      "Limit 10 companies",
+      "Best suited for founders of outdoor product companies working full-time on their businesses",
+      "Product in market with demonstrated customer traction",
+      "Making consequential choices about growth, channels, products, resources, and organizational priorities",
+      "Typically companies with $100K or more in annual revenue",
+      "Expect to commit approximately 15 hours total"
+    ],
+    "questions": [
+      "Email",
+      "Company name",
+      "Product category (Apparel, Footwear, Gear/Hardgoods, CPG/Food, Other)",
+      "Briefly describe your company, core products, target customer, and primary sales channels (2-3 sentences)",
+      "Approximate revenue over the past trailing 12 months",
+      "How long have your products been commercially available?",
+      "Strongest evidence of meaningful customer traction (2-3 sentences with examples)",
+      "Which best describes your company today? (growth stage options)",
+      "Do you currently have a written multi-year strategic plan?",
+      "Can you set credible 3-year revenue, profit, and cash goals?",
+      "Confirmations: work full-time, authority to make decisions, commit 15 hours, participate candidly",
+      "What experience, perspective, or expertise would you bring to other founders?",
+      "Anything else you want to ask or share?"
+    ]
+  },
+  "workshopLeads": {
+    "mina": {
+      "name": "Mina Yoo",
+      "role": "Workshop Lead & Advisor",
+      "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
+      "zoomShort": "https://bitli.pro/2jfKQ_422000d7"
+    },
+    "mona": {
+      "name": "Mona West",
+      "role": "Workshop Lead & Advisor",
+      "zoom": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1"
+    }
+  },
+  "resources": {
+    "decks": {
+      "2024FinalPDFs": "https://drive.google.com/drive/folders/1PVvEvZM6jlhUXIJU_PxFuzuUJB_xrml6?usp=drive_link",
+      "2024WorkingVersions": "https://drive.google.com/drive/folders/1q43YeZmcMpSoR4zKXuNeYrAwiDJ8Q7Jr?usp=sharing",
+      "2026AscentBasecampPreRead": "https://docs.google.com/presentation/d/1kqGC4TPDkGRDCswY4oevZbYXBPN8ZCoe/edit?usp=sharing&ouid=101691441614913261974&rtpof=true&sd=true",
+      "2026KickoffSession": "https://docs.google.com/presentation/d/11NFjacXD_M7RRrTIBQRWolyO9PprJjmO/edit?usp=sharing&ouid=101691441614913261974&rtpof=true&sd=true",
+      "2026BasecampSession": "https://docs.google.com/presentation/d/1uLXhf8AZcVlVnI4EC49Tb5-Cz4H_JY3_7I1X2HGQDDM/edit?usp=sharing"
+    },
+    "documents": {
+      "priorPrepNotes": "https://docs.google.com/document/d/1mndGObio7cDyl93HQoNPs6Ju5g5IOvRODkrGLSM_ths/edit?usp=sharing",
+      "postClassSurvey": "https://docs.google.com/document/d/1waZdlbFHRDFP1n-eyX3QakNsn0o0OvM-gspqCBlDuSo/edit?usp=sharing"
+    },
+    "spreadsheets": {
+      "2026Budget": "https://docs.google.com/spreadsheets/d/1fnGLuTvyrS7noD6583Z0y6o6QTL_0WjJ1eAJkt5QdQo/edit?usp=sharing",
+      "2024Budget": "https://docs.google.com/spreadsheets/d/1x9lv91eTyUdjoFb1ovLv_clIWu3RWIdBgp3f33VxLng/edit?usp=sharing",
+      "advisorCoachingSignup": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0"
+    }
+  },
+  "zoomLinks": {
+    "mina": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
+    "minaShort": "https://bitli.pro/2jfKQ_422000d7",
+    "mona": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1",
+    "roolaDemo": "https://demo.roolsystem.com",
+    "roolaInputs": "https://inputs-demo.roolsystem.com"
+  }
+}
