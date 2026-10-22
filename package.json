@@ -2,6 +2,7 @@
   "name": "pav-slack-bot",
   "version": "2.0.0",
   "scripts": {
+    "build": "mkdir -p public && echo 'PAV Slack Bot' > public/index.html",
     "dev": "ts-node src/index.ts",
     "typecheck": "tsc --noEmit",
     "test": "echo \"Error: no test specified\" && exit 1"
