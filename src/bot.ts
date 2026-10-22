@@ -4,6 +4,7 @@ import RAGSystem from './rag-system';
 import { config } from './config';
 import { logger } from './logger';
 import { getWelcomeMessage } from './reminders';
+require('dotenv').config();
 
 // Initialize clients
 const minimax = new MiniMaxClient(config.minimax);

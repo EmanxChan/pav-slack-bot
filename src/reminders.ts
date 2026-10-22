@@ -1,4 +1,4 @@
-import { config } from './config';
+import programInfo from '../data/program-info.json';
 import { logger } from './logger';
 import { ScheduledReminder } from './types';
 
@@ -121,10 +121,10 @@ export function getReminderMessage(
 
   const template = messageMap[type];
   const defaultPlaceholders = {
-    applicationDeadline: config.reminders.applicationDeadline,
-    preWorkStart: config.reminders.preWorkStart,
-    courseStart: config.reminders.courseStart,
-    presentationDate: config.reminders.presentationDate,
+    applicationDeadline: programInfo.program.keyDates.applicationDeadline,
+    preWorkStart: programInfo.program.keyDates.preWorkStart,
+    courseStart: programInfo.program.keyDates.courseStart,
+    presentationDate: programInfo.program.keyDates.presentationToPAV,
   };
 
   const placeholders = { ...defaultPlaceholders, ...customPlaceholders };
@@ -143,50 +143,52 @@ export function shouldSendReminder(
 }
 
 /**
- * Get all scheduled reminders based on program dates
+ * Get all scheduled reminders based on program dates from JSON
  */
 export function getScheduledReminders(): ScheduledReminder[] {
   const reminders: ScheduledReminder[] = [];
+  const keyDates = programInfo.program.keyDates;
+  const curriculum = programInfo.curriculum;
 
   // Application deadline reminder (1 day before)
-  const appDeadline = new Date(config.reminders.applicationDeadline);
+  const appDeadline = new Date(keyDates.applicationDeadline);
   appDeadline.setDate(appDeadline.getDate() - 1);
   reminders.push({
     type: 'applicationDeadline',
     date: appDeadline.toISOString().split('T')[0],
     message: getReminderMessage('applicationDeadline'),
-    targetChannel: config.slack.channelId,
+    targetChannel: process.env.SLACK_CHANNEL_ID,
   });
 
   // Pre-work start reminder (on the day)
   reminders.push({
     type: 'preWorkStart',
-    date: config.reminders.preWorkStart,
+    date: keyDates.preWorkStart,
     message: getReminderMessage('preWorkStart'),
-    targetChannel: config.slack.channelId,
+    targetChannel: process.env.SLACK_CHANNEL_ID,
   });
 
   // Course start reminder (1 day before)
-  const courseStart = new Date(config.reminders.courseStart);
+  const courseStart = new Date(keyDates.courseStart);
   courseStart.setDate(courseStart.getDate() - 1);
   reminders.push({
     type: 'workshop',
     date: courseStart.toISOString().split('T')[0],
     message: getReminderMessage('workshop'),
-    targetChannel: config.slack.channelId,
+    targetChannel: process.env.SLACK_CHANNEL_ID,
   });
 
   // Presentation reminder (on the day)
   reminders.push({
     type: 'presentation',
-    date: config.reminders.presentationDate,
+    date: keyDates.presentationToPAV,
     message: getReminderMessage('presentation'),
-    targetChannel: config.slack.channelId,
+    targetChannel: process.env.SLACK_CHANNEL_ID,
   });
 
   // Weekly check-ins (every Monday during the course)
-  const startDate = new Date(config.reminders.courseStart);
-  const endDate = new Date(config.reminders.presentationDate);
+  const startDate = new Date(keyDates.courseStart);
+  const endDate = new Date(keyDates.presentationToPAV);
   let current = new Date(startDate);
 
   while (current <= endDate) {
@@ -195,31 +197,25 @@ export function getScheduledReminders(): ScheduledReminder[] {
         type: 'weeklyCheckin',
         date: current.toISOString().split('T')[0],
         message: getReminderMessage('weeklyCheckin'),
-        targetChannel: config.slack.channelId,
+        targetChannel: process.env.SLACK_CHANNEL_ID,
       });
     }
     current.setDate(current.getDate() + 1);
   }
 
   // Post-workshop feedback reminders (day after each workshop)
-  // Workshop 1: Oct 28
-  const workshop1 = new Date('2026-10-28');
-  workshop1.setDate(workshop1.getDate() + 1);
-  reminders.push({
-    type: 'feedback',
-    date: workshop1.toISOString().split('T')[0],
-    message: getReminderMessage('feedback'),
-    targetChannel: config.slack.channelId,
-  });
-
-  // Workshop 2: Nov 3
-  const workshop2 = new Date('2026-11-03');
-  workshop2.setDate(workshop2.getDate() + 1);
-  reminders.push({
-    type: 'feedback',
-    date: workshop2.toISOString().split('T')[0],
-    message: getReminderMessage('feedback'),
-    targetChannel: config.slack.channelId,
+  // Find workshops in curriculum
+  curriculum.forEach((item) => {
+    if (item.activity.includes('Workshop')) {
+      const workshopDate = new Date(item.date);
+      workshopDate.setDate(workshopDate.getDate() + 1);
+      reminders.push({
+        type: 'feedback',
+        date: workshopDate.toISOString().split('T')[0],
+        message: getReminderMessage('feedback'),
+        targetChannel: process.env.SLACK_CHANNEL_ID,
+      });
+    }
   });
 
   logger.info('Scheduled reminders generated', { count: reminders.length });
@@ -232,10 +228,10 @@ export function getScheduledReminders(): ScheduledReminder[] {
 export function getWelcomeMessage(): string {
   const template = REMINDER_MESSAGES.new_member_welcome;
   const placeholders = {
-    applicationDeadline: config.reminders.applicationDeadline,
-    preWorkStart: config.reminders.preWorkStart,
-    courseStart: config.reminders.courseStart,
-    presentationDate: config.reminders.presentationDate,
+    applicationDeadline: programInfo.program.keyDates.applicationDeadline,
+    preWorkStart: programInfo.program.keyDates.preWorkStart,
+    courseStart: programInfo.program.keyDates.courseStart,
+    presentationDate: programInfo.program.keyDates.presentationToPAV,
   };
   return formatMessage(template, placeholders);
 }

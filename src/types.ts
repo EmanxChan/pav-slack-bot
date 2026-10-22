@@ -109,14 +109,6 @@ export interface SlackConfig {
   channelId: string;
 }
 
-export interface ReminderConfig {
-  applicationDeadline: string;
-  preWorkStart: string;
-  courseStart: string;
-  presentationDate: string;
-  timezone: string;
-}
-
 export interface ScheduledReminder {
   type: 'applicationDeadline' | 'preWorkStart' | 'workshop' | 'presentation' | 'weeklyCheckin' | 'feedback';
   date: string;

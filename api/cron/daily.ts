@@ -1,5 +1,4 @@
 import app from '../../src/bot';
-import { config } from '../../src/config';
 import { logger } from '../../src/logger';
 import { getScheduledReminders, shouldSendReminder } from '../../src/reminders';
 
@@ -39,7 +38,7 @@ export async function GET(request: Request): Promise<Response> {
       try {
         if (reminder.targetChannel) {
           await app.client.chat.postMessage({
-            token: config.slack.botToken,
+            token: process.env.SLACK_BOT_TOKEN,
             channel: reminder.targetChannel,
             text: reminder.message,
           });
