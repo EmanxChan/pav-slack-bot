@@ -1,4 +1,4 @@
-module.exports = async (req, res) => {
+export default async function handler(req, res) {
   const { command, text, user_id, channel_id } = req.body;
 
   console.log('Slash command received:', command, 'from user:', user_id);
@@ -37,4 +37,4 @@ module.exports = async (req, res) => {
   }
 
   res.status(200).json({ text: responseText });
-};
+}

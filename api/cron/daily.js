@@ -1,4 +1,4 @@
-module.exports = async (req, res) => {
+export default async function handler(req, res) {
   // Verify cron secret
   const authHeader = req.headers.authorization;
   const cronSecret = process.env.CRON_SECRET;
@@ -17,4 +17,4 @@ module.exports = async (req, res) => {
     message: 'Cron job executed',
     date: new Date().toISOString().split('T')[0],
   });
-};
+}
