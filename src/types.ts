@@ -12,7 +12,7 @@ export interface ProgramInfo {
       presentationToPAV: string;
     };
     learningOutcomes: string[];
-    measuresOfSuccess: string[];
+    measuresOfSuccess?: string[];
     targetStudents: number;
     studentCriteria: {
       companyFit: string;
@@ -22,13 +22,13 @@ export interface ProgramInfo {
     };
     timeInvestment: string;
     studentDeliverables: string[];
-    marketingPlan: string[];
-    roles: {
+    marketingPlan?: string[];
+    roles?: {
       workshopLeads: string;
       pavStaff: string;
     };
-    budget: string;
-    budgetLink: string;
+    budget?: string;
+    budgetLink?: string;
   };
   curriculum: CurriculumItem[];
   postCourse: string[];
