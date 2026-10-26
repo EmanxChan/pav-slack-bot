@@ -11,6 +11,10 @@
     "api/slack/events.js": {
       "includeFiles": "data/**",
       "maxDuration": 60
+    },
+    "api/slack/interactions.js": {
+      "includeFiles": "data/**",
+      "maxDuration": 60
     }
   }
 }

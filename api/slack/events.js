@@ -32,7 +32,7 @@ export async function POST(request) {
 
   if (body.type === 'event_callback' && body.event) {
     // Ack Slack immediately (it needs a response within 3s) and keep working in the background.
-    waitUntil(handleEvent(body.event));
+    waitUntil(handleEvent(body.event, { teamId: body.team_id, appId: body.api_app_id }));
   }
 
   return Response.json({ ok: true });
