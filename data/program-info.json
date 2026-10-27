@@ -342,5 +342,22 @@
         "Mona": "U05BCQL6PEG"
       }
     }
+  },
+  "aboutPAV": {
+    "summary": "Path Ahead Ventures (PAV) is REI Co-op's founder-forward organization and venture capital fund for founders of color in the outdoor industry. It works with U.S.-based startups owned and led by Black, Indigenous, Latina/o/x, and Asian American and Pacific Islander founders whose companies inspire and equip people in their outdoor lives. Founders of color represent an estimated 1% of outdoor entrepreneurs, and PAV's goal is to accelerate their success, whether they are just starting out or growing an established business.",
+    "support": [
+      "Community network: partners, peers, mentors, and experts who provide a trusted space for growth",
+      "Capability and infrastructure: marketing reach, supply chain, and distribution",
+      "Customer connection: ways to reach new customers and to test and build",
+      "Capital investment: a $30M fund for direct equity investments"
+    ],
+    "programs": {
+      "Embark": "For aspiring founders with an idea or plan, helping turn early-stage ideas into viable business models. Includes equity-free grants.",
+      "Navigate": "For businesses ready for retail, with operational, financial, and product support for wholesale growth. Includes equity-free grants and optional, flexible equity investment."
+    },
+    "commitments": "PAV has committed to invest in and partner with 300 current and aspiring founders of color and to build a network of 1,000 domain experts.",
+    "learnMore": "https://www.rei.com/path-ahead",
+    "contactEmail": "pathaheadventures@rei.com",
+    "note": "For questions about other PAV programs, eligibility, or investment, point founders to the website or the PAV team rather than making promises."
   }
 }
