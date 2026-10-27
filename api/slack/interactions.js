@@ -1,5 +1,6 @@
 import { waitUntil } from '@vercel/functions';
 import { verifySlackSignature, handleEvent, slackApi } from '../../lib/bot-core.js';
+import { handleFeedbackAction, handleFeedbackComment } from '../../lib/feedback.js';
 
 export const maxDuration = 60;
 
@@ -25,6 +26,14 @@ export async function POST(request) {
     if (action?.action_id?.startsWith('ask_') && action.value && userId) {
       waitUntil(answerInMessages(userId, action.value));
     }
+    if (action?.action_id === 'fb_up' || action?.action_id === 'fb_down') {
+      // views.open needs the trigger_id within 3 seconds, so start right away.
+      waitUntil(handleFeedbackAction(payload, action));
+    }
+  }
+
+  if (payload?.type === 'view_submission' && payload.view?.callback_id === 'fb_comment') {
+    waitUntil(handleFeedbackComment(payload));
   }
 
   // Slack needs an empty 200 within 3 seconds.

@@ -3,8 +3,8 @@
   "outputDirectory": "api",
   "crons": [
     {
-      "path": "/api/cron/daily",
-      "schedule": "0 14 * * *"
+      "path": "/api/cron/weekly-digest",
+      "schedule": "0 15 * * 1"
     }
   ],
   "functions": {
@@ -13,6 +13,10 @@
       "maxDuration": 60
     },
     "api/slack/interactions.js": {
+      "includeFiles": "data/**",
+      "maxDuration": 60
+    },
+    "api/cron/weekly-digest.js": {
       "includeFiles": "data/**",
       "maxDuration": 60
     }
