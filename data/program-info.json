@@ -25,7 +25,7 @@
       "strategicReadiness": "Facing meaningful choices about growth, channels, products, team and/or resource allocation. Access to current financials and ability to develop reasonable 3-year revenue, profit and cash assumptions. Participant is CEO/Founder or has authority to make company-level strategic decisions.",
       "founderCommitment": "Working full-time on the business with no other full-time job. Willing to commit ~15 hours across pre-work, workshops, independent work, peer sessions and advisor coaching. Willing to share candidly, maintain confidentiality and provide substantive peer feedback."
     },
-    "timeInvestment": "15 hours over 2.5 weeks including pre-work",
+    "timeInvestment": "About 15 hours total over the Intensive, including about 3 hours of pre-work",
     "studentDeliverables": [
       "Review and complete homework in prep for each session",
       "Attend two 2.5 hr sessions",
@@ -40,7 +40,7 @@
         "Two virtual workshops, about 2.5 hours each, with advisor presentations, small-group breakouts, and full-group discussion",
         "Two hours of 1:1 coaching with your core advisor",
         "One 1-hour, three-person peer clinic (the Peer Feedback Session)",
-        "About 4-6 hours of independent work each week to develop and refine your plan"
+        "Independent work between sessions to develop and refine your plan"
       ],
       "team": "You are strongly encouraged to involve your team in the process where helpful.",
       "wrapUp": "The Intensive wraps up with individual presentations to the Path Ahead team on November 10."
@@ -107,7 +107,7 @@
           },
           {
             "step": "3. Complete the ROOL questionnaire (about 20 minutes)",
-            "detail": "ROOL is an AI tool Mina is developing that generates a starting-point Strategic Plan and Growth Readiness Report for physical product companies. Link: https://roolsystem.com/strategic-plan-starter"
+            "detail": "ROOL is an AI tool Mina is developing that generates a starting-point Strategic Plan and Growth Readiness Report for physical product companies. Complete it here: https://roolsystem.com/strategic-plan-starter (it was due 12pm PT, Monday, October 26; if you have not done it yet, complete it as soon as you can)."
           }
         ],
         "mindset": "The goal of the pre-work is not to arrive with perfect answers. Come with your best current thinking. The workshops, peer feedback, and coaching sessions will challenge and strengthen it."
@@ -151,7 +151,7 @@
       "time": "10:00 - 11:00 AM PT",
       "activity": "Peer Feedback Session",
       "details": "Pressure-test goals, strategic initiatives, priorities and major tradeoffs, measurements (founder-only groups of 3-4)",
-      "summary": "Meet in peer groups of 3-4 founders to pressure-test your goals, strategic initiatives, and priorities.",
+      "summary": "Meet in three-person peer groups to pressure-test your goals, strategic initiatives, and priorities.",
       "platform": "Microsoft Teams",
       "joinLink": "https://teams.microsoft.com/meet/2375501143988418?p=QwyiBcxzQ691VuaVKX",
       "meetingId": "237 550 114 398 841 8",
@@ -309,5 +309,23 @@
       "Join the private Slack channel",
       "Sign up for advisor coaching hours: https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0"
     ]
+  },
+  "contacts": {
+    "Eman (PAV team)": {
+      "slackUserId": "U0C6J5X39NU",
+      "handles": [
+        "Logistics: schedule, session links, calendar invites",
+        "Slack access and channel issues",
+        "Submitting your final slides and two-page plan",
+        "Anything else not listed below"
+      ]
+    },
+    "Mina & Mona (workshop leads and advisors)": {
+      "handles": [
+        "Feedback on your strategic plan",
+        "Coaching questions",
+        "Questions about the workshop content, frameworks, exercises, and the ROOL tool"
+      ]
+    }
   }
 }
