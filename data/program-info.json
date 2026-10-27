@@ -178,7 +178,12 @@
           "Monday (PT): 10-11, 11-12, 2-3"
         ]
       },
-      "meetingDetails": "After you sign up, you get a calendar invite with the virtual meeting details for your coaching session."
+      "meetingDetails": "After you sign up, you get a calendar invite with the virtual meeting details for your coaching session.",
+      "howToSignUp": [
+        "Put your name, company, and email into an open 1-hour slot with your paired advisor. First come, first served.",
+        "Eman checks the sheet periodically and sends a calendar invite with the virtual meeting link.",
+        "To change or reschedule, or if none of the slots work, email Eman and your paired advisor for alternative times."
+      ]
     },
     {
       "date": "Tuesday, November 3",
@@ -225,7 +230,12 @@
           "Thursday (PT): 12-1, 1-2, 3-4",
           "Friday (PT): 10-11, 11-12, 1-2"
         ]
-      }
+      },
+      "howToSignUp": [
+        "Put your name, company, and email into an open 1-hour slot with your paired advisor. First come, first served.",
+        "Eman checks the sheet periodically and sends a calendar invite with the virtual meeting link.",
+        "To change or reschedule, or if none of the slots work, email Eman and your paired advisor for alternative times."
+      ]
     },
     {
       "date": "Tuesday, November 10",
@@ -237,7 +247,8 @@
       "joinLink": "https://teams.microsoft.com/meet/2821687866507030?p=mvxFXQDhY2Js9cpGwT",
       "meetingId": "282 168 786 650 703 0",
       "passcode": "CZ38Pr94",
-      "submission": "Send your slides and two-page plan directly to Eman (<@U0C6J5X39NU>) by 5pm PT on Monday, November 9, the day before the presentation."
+      "submission": "Send your slides and two-page plan directly to Eman (<@U0C6J5X39NU>) by 5pm PT on Monday, November 9, the day before the presentation.",
+      "format": "Each founder gives a 10-minute presentation."
     }
   ],
   "postCourse": [
@@ -362,5 +373,133 @@
     "Are workshops recorded?": "Yes. Recordings will be shared once they are available. They are not posted yet.",
     "What if I miss a session?": "Watch the recording once it is shared, and let Eman know you missed it.",
     "What if I am running late on homework or the final plan?": "Let Eman know as soon as you can. Pavey cannot grant extensions."
+  },
+  "cohort": {
+    "note": "The founders in this Intensive and their paired advisor. Each company books advisor coaching only with its paired advisor.",
+    "companies": [
+      {
+        "company": "Swift Running",
+        "website": "swift-running.com",
+        "founders": [
+          "Pooja Bansal"
+        ],
+        "pairedAdvisor": "Mona West"
+      },
+      {
+        "company": "Wow Foods (Meat Shredz)",
+        "website": "meatshredz.com",
+        "founders": [
+          "Steve Song"
+        ],
+        "pairedAdvisor": "Mina Yoo",
+        "alsoKnownAs": [
+          "MeatShredz",
+          "Meat Shredz",
+          "Wow Foods"
+        ]
+      },
+      {
+        "company": "Campfire Coffee",
+        "website": "welovecampfire.com",
+        "founders": [
+          "Quincy Henry",
+          "Whitni Henry"
+        ],
+        "pairedAdvisor": "Mona West"
+      },
+      {
+        "company": "HercLeon",
+        "website": "hercleon.com",
+        "founders": [
+          "Wen Muenyi",
+          "Aleyna Yabici",
+          "Zac Salad"
+        ],
+        "pairedAdvisor": "Mina Yoo"
+      },
+      {
+        "company": "Urban Native Era",
+        "website": "urbannativeera.com",
+        "founders": [
+          "Joey Montoya"
+        ],
+        "pairedAdvisor": "Mina Yoo"
+      },
+      {
+        "company": "PIONEERS Apparel Inc dba PYNR",
+        "website": "pynrs.com",
+        "founders": [
+          "Sidney Baptista"
+        ],
+        "pairedAdvisor": "Mona West",
+        "alsoKnownAs": [
+          "PYNR",
+          "PYNRS",
+          "Pioneers Apparel"
+        ]
+      },
+      {
+        "company": "CLIP",
+        "website": "clip.bike",
+        "founders": [
+          "Som Ray"
+        ],
+        "pairedAdvisor": "Mina Yoo"
+      },
+      {
+        "company": "MONKEYHANDS",
+        "website": "monkeyhands.eu",
+        "founders": [
+          "Vicente Dominguez"
+        ],
+        "pairedAdvisor": "Mona West",
+        "alsoKnownAs": [
+          "Monkey Hands"
+        ]
+      },
+      {
+        "company": "Pao Labs",
+        "website": "paolabs.com",
+        "founders": [
+          "Celena Chan",
+          "Zack Yu"
+        ],
+        "pairedAdvisor": "Mona West"
+      },
+      {
+        "company": "Parapack.co",
+        "website": "parapack.co",
+        "founders": [
+          "Ian Hughes"
+        ],
+        "pairedAdvisor": "Mina Yoo",
+        "alsoKnownAs": [
+          "Parapack"
+        ]
+      },
+      {
+        "company": "Tuyyo Foods",
+        "website": "tuyyofoods.com",
+        "founders": [
+          "Stefanie Garcia Turner",
+          "Regina Trillo"
+        ],
+        "pairedAdvisor": "Mina Yoo",
+        "alsoKnownAs": [
+          "Tuyyo"
+        ]
+      },
+      {
+        "company": "COBA",
+        "website": "coba.coffee",
+        "founders": [
+          "Peter Lee"
+        ],
+        "pairedAdvisor": "Mona West",
+        "alsoKnownAs": [
+          "COBA Coffee"
+        ]
+      }
+    ]
   }
 }
