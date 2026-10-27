@@ -269,12 +269,14 @@
       "name": "Mina Yoo",
       "role": "Workshop Lead & Advisor",
       "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
-      "zoomShort": "https://bitli.pro/2jfKQ_422000d7"
+      "zoomShort": "https://bitli.pro/2jfKQ_422000d7",
+      "slackUserId": "U05SPV4SQ1E"
     },
     "mona": {
       "name": "Mona West",
       "role": "Workshop Lead & Advisor",
-      "zoom": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1"
+      "zoom": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1",
+      "slackUserId": "U05BCQL6PEG"
     }
   },
   "resources": {
@@ -325,7 +327,11 @@
         "Feedback on your strategic plan",
         "Coaching questions",
         "Questions about the workshop content, frameworks, exercises, and the ROOL tool"
-      ]
+      ],
+      "slackUserIds": {
+        "Mina": "U05SPV4SQ1E",
+        "Mona": "U05BCQL6PEG"
+      }
     }
   }
 }
