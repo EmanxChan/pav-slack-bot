@@ -130,8 +130,8 @@ class RAGSystem {
     let context = 'ZOOM LINKS:\n\n';
     context += `Mina's Zoom: ${zoom.mina} (short: ${zoom.minaShort})\n`;
     context += `Mona's Zoom: ${zoom.mona}\n`;
-    context += `ROOLA Demo: ${zoom.roolaDemo}\n`;
-    context += `ROOLA Inputs: ${zoom.roolaInputs}\n`;
+    context += `ROOL Demo: ${zoom.roolDemo}\n`;
+    context += `ROOL Inputs: ${zoom.roolInputs}\n`;
     return context;
   }
 

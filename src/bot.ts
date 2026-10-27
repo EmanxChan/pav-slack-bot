@@ -18,7 +18,7 @@ const app = new App({
 });
 
 // System prompt for MiniMax
-const SYSTEM_PROMPT = `You are a helpful assistant for the Path Ahead Ventures Strategic Planning Sprint program. You have access to detailed program information and your role is to answer questions about the program accurately and helpfully.
+const SYSTEM_PROMPT = `You are a helpful assistant for the Path Ahead Ventures Strategic Planning Intensive program. You have access to detailed program information and your role is to answer questions about the program accurately and helpfully.
 
 Guidelines:
 - When asked about dates, times, or schedules, provide specific details from the program information
@@ -125,7 +125,7 @@ app.message(async ({ message, say }) => {
 
     if (!isMember) {
       await say({
-        text: "Sorry, I can only respond to members of the Strategic Planning Sprint channel. If you should have access, please contact the program administrator.",
+        text: "Sorry, I can only respond to members of the Strategic Planning Intensive channel. If you should have access, please contact the program administrator.",
         channel: channelId,
       });
       return;

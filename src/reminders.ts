@@ -8,7 +8,7 @@ import { ScheduledReminder } from './types';
 const REMINDER_MESSAGES: Record<string, string> = {
   application_deadline: `📢 *APPLICATION DEADLINE REMINDER*
 
-Just a friendly reminder that the application deadline for the Strategic Planning Sprint is coming up!
+Just a friendly reminder that the application deadline for the Strategic Planning Intensive is coming up!
 
 Make sure to submit your application by the deadline to be considered for this intensive.
 
@@ -18,12 +18,12 @@ Don't miss out on this opportunity to create a working strategic plan for your b
 
   pre_work_start: `📚 *PRE-WORK STARTING TODAY*
 
-Pre-work materials are now available for the Strategic Planning Sprint!
+Pre-work materials are now available for the Strategic Planning Intensive!
 
 Please review the materials and complete the following before Workshop 1:
 - Draft your mission, vision, and values
 - Draft 3-year revenue/profit/cash goals
-- Complete the ROOLA questionnaire
+- Complete the ROOL questionnaire
 - Review the pre-read deck
 
 All materials are available in the program resources. Let me know if you have any questions!`,
@@ -68,7 +68,7 @@ Please take a few minutes to share your thoughts:
 
 Your feedback is invaluable in making this program better for everyone!`,
 
-  new_member_welcome: `👋 *Welcome to the Strategic Planning Sprint!*
+  new_member_welcome: `👋 *Welcome to the Strategic Planning Intensive!*
 
 I'm your program assistant bot. I'm here to help you with any questions about the program.
 

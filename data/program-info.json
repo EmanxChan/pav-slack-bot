@@ -1,6 +1,6 @@
 {
   "program": {
-    "name": "Strategic Planning Sprint",
+    "name": "Strategic Planning Intensive",
     "overview": "A company's strategic plan is essential to making decisions, especially when resources are limited. You will leave this intensive with a working strategic plan that answers two fundamental questions: Where are we going, and how will we get there? You will define your mission, vision, and values; establish financial and other goals for the next three years; and identify the strategic initiatives and priorities needed to achieve them. You will also outline near-term tactics, the resources required to execute your plan, and metrics to gauge progress and effectiveness. Lastly, you will receive a customizable dashboard template designed for use with AI to help monitor progress against your strategic plan and support ongoing decision-making.",
     "keyDates": {
       "sendApplications": "Thursday, October 1",
@@ -32,7 +32,19 @@
       "Meet with peers & advisors",
       "Complete a 2-pg plan",
       "Present plan to PAV team"
-    ]
+    ],
+    "format": {
+      "dates": "October 28 through November 10",
+      "purpose": "Structure and thought partnership as you build your three-year strategic plan.",
+      "includes": [
+        "Two virtual workshops, about 2.5 hours each, with advisor presentations, small-group breakouts, and full-group discussion",
+        "Two hours of 1:1 coaching with your core advisor",
+        "One 1-hour, three-person peer clinic (the Peer Feedback Session)",
+        "About 4-6 hours of independent work each week to develop and refine your plan"
+      ],
+      "team": "You are strongly encouraged to involve your team in the process where helpful.",
+      "wrapUp": "The Intensive wraps up with individual presentations to the Path Ahead team on November 10."
+    }
   },
   "curriculum": [
     {
@@ -50,14 +62,14 @@
     {
       "date": "Wednesday, October 21",
       "activity": "Pre-work opens",
-      "details": "Review materials; draft Mission/Vision/Values; preliminary 3-year financial goals; complete Defining Choices; complete ROOLA questionnaire.",
+      "details": "Review materials; draft Mission/Vision/Values; preliminary 3-year financial goals; complete Defining Choices; complete ROOL questionnaire.",
       "homework": [
         "Read pre-read deck",
         "Read Lumi case for context during strategic plan template discussion",
         "Draft mission/vision/values",
         "Draft 3-year revenue/profit/cash",
         "Think about Where to Play/How to Win questions",
-        "ROOLA Questionnaire – finances/choices like breakeven/marketing spend/gross margin/sku/ops"
+        "ROOL Questionnaire – finances/choices like breakeven/marketing spend/gross margin/sku/ops"
       ],
       "resources": {
         "strategicPlanDemo": "Inputs demo and Strategic Plan",
@@ -70,7 +82,36 @@
         "due": "12pm PT, Monday, October 26",
         "note": "Complete the ROOL assessment if you have not already. It helps you get the most out of the workshops."
       },
-      "preWorkSource": "Mona's pre-work email, sent to founders before Workshop 1"
+      "preWorkSource": "Mona's pre-work email, sent to founders before Workshop 1",
+      "preWork": {
+        "from": "Mina & Mona (pre-work email)",
+        "estimatedTime": "About 3 hours before Workshop 1 on October 28",
+        "steps": [
+          {
+            "step": "1. Read the Lumi, Inc. case",
+            "link": "https://drive.google.com/file/d/1Fpzemnat_GM1Sx0ozNozYWW8YujqvOaG/view?usp=sharing",
+            "detail": "Come prepared to discuss Lumi's Mission, Vision, Values; Goals; and Defining Choices (these are found in the pre-work presentation)."
+          },
+          {
+            "step": "2. Complete the pre-work for your company",
+            "detail": "Review the strategic planning concepts and instructions in the pre-work presentation, then complete the pre-work exercises.",
+            "links": {
+              "Pre-work presentation": "https://drive.google.com/file/d/1IcCaBIUdWx9J4VW0qJrPB90yFcEsnIjk/view?usp=sharing",
+              "Pre-work exercises": "https://drive.google.com/file/d/1yoPdbg_nFQ4r5N8LAVJR-H1Y6-uRaD0j/view?usp=sharing"
+            },
+            "parts": [
+              "Part 1: Draft your Mission, Vision, and Values",
+              "Part 2: Review your financials and set preliminary three-year goals for revenue, profit, year-end cash, and other important outcomes",
+              "Part 3: Complete the Defining Choices exercises"
+            ]
+          },
+          {
+            "step": "3. Complete the ROOL questionnaire (about 20 minutes)",
+            "detail": "ROOL is an AI tool Mina is developing that generates a starting-point Strategic Plan and Growth Readiness Report for physical product companies. Link: https://roolsystem.com/strategic-plan-starter"
+          }
+        ],
+        "mindset": "The goal of the pre-work is not to arrive with perfect answers. Come with your best current thinking. The workshops, peer feedback, and coaching sessions will challenge and strengthen it."
+      }
     },
     {
       "date": "Wednesday, October 28",
@@ -86,7 +127,7 @@
         "Big group share"
       ],
       "homework": [
-        "Review ROOLA draft of Pages 1, 2 of strategic plan",
+        "Review ROOL draft of Pages 1, 2 of strategic plan",
         "Draft Strategic Initiatives, Priorities, Measurements"
       ],
       "summary": "We'll begin exploring your strategic direction, priorities, and the choices that will shape the next phase of your business.",
@@ -198,7 +239,7 @@
   "application": {
     "formReference": "https://docs.google.com/forms/d/1cHxUgJ8KUW78mGLcitOxPyI9-1YgCthBR0v8bAhCjzg/edit",
     "deadline": "5PM SUNDAY, OCTOBER 11",
-    "description": "Path Ahead Ventures Strategic Planning Sprint (pre-work starts October 21; course runs October 28 - November 10)",
+    "description": "Path Ahead Ventures Strategic Planning Intensive (pre-work starts October 21; course runs October 28 - November 10)",
     "criteria": [
       "Limit 10 companies",
       "Best suited for founders of outdoor product companies working full-time on their businesses",
@@ -241,10 +282,13 @@
       "2024FinalPDFs": "https://drive.google.com/drive/folders/1PVvEvZM6jlhUXIJU_PxFuzuUJB_xrml6?usp=drive_link",
       "2026AscentBasecampPreRead": "https://docs.google.com/presentation/d/1kqGC4TPDkGRDCswY4oevZbYXBPN8ZCoe/edit?usp=sharing&ouid=101691441614913261974&rtpof=true&sd=true",
       "2026KickoffSession": "https://docs.google.com/presentation/d/11NFjacXD_M7RRrTIBQRWolyO9PprJjmO/edit?usp=sharing&ouid=101691441614913261974&rtpof=true&sd=true",
-      "2026BasecampSession": "https://docs.google.com/presentation/d/1uLXhf8AZcVlVnI4EC49Tb5-Cz4H_JY3_7I1X2HGQDDM/edit?usp=sharing"
+      "2026BasecampSession": "https://docs.google.com/presentation/d/1uLXhf8AZcVlVnI4EC49Tb5-Cz4H_JY3_7I1X2HGQDDM/edit?usp=sharing",
+      "preWorkPresentation": "https://drive.google.com/file/d/1IcCaBIUdWx9J4VW0qJrPB90yFcEsnIjk/view?usp=sharing"
     },
     "documents": {
-      "postClassSurvey": "https://docs.google.com/document/d/1waZdlbFHRDFP1n-eyX3QakNsn0o0OvM-gspqCBlDuSo/edit?usp=sharing"
+      "postClassSurvey": "https://docs.google.com/document/d/1waZdlbFHRDFP1n-eyX3QakNsn0o0OvM-gspqCBlDuSo/edit?usp=sharing",
+      "lumiCase": "https://drive.google.com/file/d/1Fpzemnat_GM1Sx0ozNozYWW8YujqvOaG/view?usp=sharing",
+      "preWorkExercises": "https://drive.google.com/file/d/1yoPdbg_nFQ4r5N8LAVJR-H1Y6-uRaD0j/view?usp=sharing"
     },
     "spreadsheets": {
       "advisorCoachingSignup": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0"
@@ -254,8 +298,8 @@
     "mina": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
     "minaShort": "https://bitli.pro/2jfKQ_422000d7",
     "mona": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1",
-    "roolaDemo": "https://demo.roolsystem.com",
-    "roolaInputs": "https://inputs-demo.roolsystem.com"
+    "roolDemo": "https://demo.roolsystem.com",
+    "roolInputs": "https://inputs-demo.roolsystem.com"
   },
   "gettingStarted": {
     "slack": "Founders join the program through a private Slack channel. You should have received an email invite from Slack. If you have issues or did not get it, message Eman.",

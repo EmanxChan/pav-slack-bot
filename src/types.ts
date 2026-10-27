@@ -52,8 +52,8 @@ export interface ProgramInfo {
     mina: string;
     minaShort: string;
     mona: string;
-    roolaDemo: string;
-    roolaInputs: string;
+    roolDemo: string;
+    roolInputs: string;
   };
 }
 
