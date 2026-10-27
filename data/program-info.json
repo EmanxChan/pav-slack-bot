@@ -55,12 +55,6 @@
         "Think about Where to Play/How to Win questions",
         "ROOL Questionnaire – finances/choices like breakeven/marketing spend/gross margin/sku/ops"
       ],
-      "resources": {
-        "strategicPlanDemo": "Inputs demo and Strategic Plan",
-        "growthReadinessReport": "https://demo.roolsystem.com",
-        "inputsDemo": "https://inputs-demo.roolsystem.com",
-        "demoPassword": "rooldemo2026"
-      },
       "roolAssessment": {
         "link": "https://roolsystem.com/strategic-plan-starter",
         "due": "12pm PT, Monday, October 26",
@@ -147,27 +141,18 @@
       "details": "Review and strengthen Page 1 and overall strategic direction. 6 companies each for Mina & Mona.",
       "signUpSheet": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0",
       "minaSchedule": {
-        "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
-        "zoomShort": "https://bitli.pro/2jfKQ_422000d7",
-        "slots": [
-          "Friday (PT): 1-2, 2-3",
-          "Monday (PT): 8-9, 9-10, Noon-1",
-          "Tuesday (PT): 9-10"
-        ]
+        "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09"
       },
       "monaSchedule": {
-        "zoom": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1",
-        "slots": [
-          "Friday (PT): 12-1, 1-2, 3-4",
-          "Monday (PT): 10-11, 11-12, 2-3"
-        ]
+        "zoom": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1"
       },
-      "meetingDetails": "After you sign up, you get a calendar invite with the virtual meeting details for your coaching session.",
       "howToSignUp": [
         "Put your name, company, and email into an open 1-hour slot with your paired advisor. First come, first served.",
         "Eman checks the sheet periodically and sends a calendar invite with the virtual meeting link.",
         "To change or reschedule, or if none of the slots work, email Eman (emchan@rei.com) and your paired advisor for alternative times."
-      ]
+      ],
+      "whereItHappens": "In your paired advisor's personal Zoom room. Mina: https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09 . Mona: https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1 . You'll also get a calendar invite once you book.",
+      "openSlots": "See the sign-up sheet for open times. Slots are first come, first served, so the sheet is always the most current."
     },
     {
       "date": "Tuesday, November 3",
@@ -202,24 +187,18 @@
       "details": "Final strategic review and refinement; prepare for PAV presentation. 6 companies each.",
       "signUpSheet": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0",
       "minaSchedule": {
-        "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
-        "slots": [
-          "Thursday (PT): 9-10, 10-11, 1-2",
-          "Friday (PT): 9-10, 10-11, 1-2"
-        ]
+        "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09"
       },
       "monaSchedule": {
-        "zoom": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1",
-        "slots": [
-          "Thursday (PT): 12-1, 1-2, 3-4",
-          "Friday (PT): 10-11, 11-12, 1-2"
-        ]
+        "zoom": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1"
       },
       "howToSignUp": [
         "Put your name, company, and email into an open 1-hour slot with your paired advisor. First come, first served.",
         "Eman checks the sheet periodically and sends a calendar invite with the virtual meeting link.",
         "To change or reschedule, or if none of the slots work, email Eman (emchan@rei.com) and your paired advisor for alternative times."
-      ]
+      ],
+      "whereItHappens": "In your paired advisor's personal Zoom room. Mina: https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09 . Mona: https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1 . You'll also get a calendar invite once you book.",
+      "openSlots": "See the sign-up sheet for open times. Slots are first come, first served, so the sheet is always the most current."
     },
     {
       "date": "Tuesday, November 10",
@@ -245,7 +224,6 @@
       "name": "Mina Yoo",
       "role": "Workshop Lead & Advisor",
       "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
-      "zoomShort": "https://bitli.pro/2jfKQ_422000d7",
       "slackUserId": "U05SPV4SQ1E"
     },
     "mona": {
@@ -269,10 +247,8 @@
   },
   "zoomLinks": {
     "mina": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
-    "minaShort": "https://bitli.pro/2jfKQ_422000d7",
     "mona": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1",
-    "roolDemo": "https://demo.roolsystem.com",
-    "roolInputs": "https://inputs-demo.roolsystem.com"
+    "note": "Mina's and Mona's personal Zoom rooms. Advisor coaching sessions happen here."
   },
   "gettingStarted": {
     "slack": "Founders join the program through a private Slack channel. You should have received an email invite from Slack. If you have issues or did not get it, message Eman.",

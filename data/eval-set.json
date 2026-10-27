@@ -1,23 +1,214 @@
 {
   "note": "Test questions for `!eval`. mustIncludeAny: each group needs at least one match. Matching ignores case.",
-  "globalMustNotInclude": ["Sprint", "**", "docs.google.com/forms", "$17K", "17,000"],
+  "globalMustNotInclude": [
+    "Sprint",
+    "**",
+    "docs.google.com/forms",
+    "$17K",
+    "17,000",
+    "rooldemo2026",
+    "demo.roolsystem.com"
+  ],
   "tests": [
-    { "question": "How do I join Workshop 1?", "mustIncludeAny": [["teams.microsoft.com/meet/261891046965347"], ["xk2iv9Et"]] },
-    { "question": "What's the passcode for Workshop 2?", "mustIncludeAny": [["VN3Ay3ij"]] },
-    { "question": "When is the presentation to PAV and how do I join?", "mustIncludeAny": [["November 10", "Nov 10", "Nov. 10"], ["2821687866507030", "CZ38Pr94"]] },
-    { "question": "When is my final plan due and how do I submit it?", "mustIncludeAny": [["5pm", "5 pm", "5:00"], ["November 9", "Nov 9", "Nov. 9"], ["Eman", "U0C6J5X39NU"]] },
-    { "question": "What do I need to do for pre-work?", "mustIncludeAny": [["Lumi"], ["Mission"]] },
-    { "question": "Where is the Lumi case?", "mustIncludeAny": [["1Fpzemnat_GM1Sx0ozNozYWW8YujqvOaG"]] },
-    { "question": "What's the budget for this program?", "mustNotInclude": ["budget is"] },
-    { "question": "How do I apply to the Intensive?", "mustNotInclude": ["October 11"] },
-    { "question": "Who is my advisor?", "asker": "Pooja Bansal", "mustIncludeAny": [["Mona"]] },
-    { "question": "Who is my advisor?", "asker": "Wen Muenyi", "mustIncludeAny": [["Mina"]] },
-    { "question": "How do I book advisor coaching?", "mustIncludeAny": [["10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ", "sign-up sheet", "sign up sheet"]] },
-    { "question": "I need to reschedule my coaching session. What do I do?", "mustIncludeAny": [["emchan@rei.com"]] },
-    { "question": "What is Path Ahead Ventures?", "mustIncludeAny": [["REI"]] },
-    { "question": "Are the workshops recorded?", "mustIncludeAny": [["recording"]] },
-    { "question": "Can you give me feedback on my mission statement?", "mustIncludeAny": [["Mina", "Mona", "U05SPV4SQ1E", "U05BCQL6PEG"]] },
-    { "question": "What is ROOL?", "mustIncludeAny": [["AI", "roolsystem.com"]] },
-    { "question": "How big are the peer feedback groups?", "mustIncludeAny": [["three", "3-person", "3 person"]] }
+    {
+      "question": "How do I join Workshop 1?",
+      "mustIncludeAny": [
+        [
+          "teams.microsoft.com/meet/261891046965347"
+        ],
+        [
+          "xk2iv9Et"
+        ]
+      ]
+    },
+    {
+      "question": "What's the passcode for Workshop 2?",
+      "mustIncludeAny": [
+        [
+          "VN3Ay3ij"
+        ]
+      ]
+    },
+    {
+      "question": "When is the presentation to PAV and how do I join?",
+      "mustIncludeAny": [
+        [
+          "November 10",
+          "Nov 10",
+          "Nov. 10"
+        ],
+        [
+          "2821687866507030",
+          "CZ38Pr94"
+        ]
+      ]
+    },
+    {
+      "question": "When is my final plan due and how do I submit it?",
+      "mustIncludeAny": [
+        [
+          "5pm",
+          "5 pm",
+          "5:00"
+        ],
+        [
+          "November 9",
+          "Nov 9",
+          "Nov. 9"
+        ],
+        [
+          "Eman",
+          "U0C6J5X39NU"
+        ]
+      ]
+    },
+    {
+      "question": "What do I need to do for pre-work?",
+      "mustIncludeAny": [
+        [
+          "Lumi"
+        ],
+        [
+          "Mission"
+        ]
+      ]
+    },
+    {
+      "question": "Where is the Lumi case?",
+      "mustIncludeAny": [
+        [
+          "1Fpzemnat_GM1Sx0ozNozYWW8YujqvOaG"
+        ]
+      ]
+    },
+    {
+      "question": "What's the budget for this program?",
+      "mustNotInclude": [
+        "budget is"
+      ]
+    },
+    {
+      "question": "How do I apply to the Intensive?",
+      "mustNotInclude": [
+        "October 11"
+      ]
+    },
+    {
+      "question": "Who is my advisor?",
+      "asker": "Pooja Bansal",
+      "mustIncludeAny": [
+        [
+          "Mona"
+        ]
+      ]
+    },
+    {
+      "question": "Who is my advisor?",
+      "asker": "Wen Muenyi",
+      "mustIncludeAny": [
+        [
+          "Mina"
+        ]
+      ]
+    },
+    {
+      "question": "How do I book advisor coaching?",
+      "mustIncludeAny": [
+        [
+          "10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ",
+          "sign-up sheet",
+          "sign up sheet"
+        ]
+      ]
+    },
+    {
+      "question": "I need to reschedule my coaching session. What do I do?",
+      "mustIncludeAny": [
+        [
+          "emchan@rei.com"
+        ]
+      ]
+    },
+    {
+      "question": "What is Path Ahead Ventures?",
+      "mustIncludeAny": [
+        [
+          "REI"
+        ]
+      ]
+    },
+    {
+      "question": "Are the workshops recorded?",
+      "mustIncludeAny": [
+        [
+          "recording"
+        ]
+      ]
+    },
+    {
+      "question": "Can you give me feedback on my mission statement?",
+      "mustIncludeAny": [
+        [
+          "Mina",
+          "Mona",
+          "U05SPV4SQ1E",
+          "U05BCQL6PEG"
+        ]
+      ]
+    },
+    {
+      "question": "What is ROOL?",
+      "mustIncludeAny": [
+        [
+          "AI",
+          "roolsystem.com"
+        ]
+      ]
+    },
+    {
+      "question": "How big are the peer feedback groups?",
+      "mustIncludeAny": [
+        [
+          "three",
+          "3-person",
+          "3 person"
+        ]
+      ]
+    },
+    {
+      "question": "What Zoom link do I use for my coaching session?",
+      "asker": "Peter Lee",
+      "mustIncludeAny": [
+        [
+          "6626166018"
+        ]
+      ]
+    },
+    {
+      "question": "Which Zoom room is Mina’s?",
+      "mustIncludeAny": [
+        [
+          "9623863378"
+        ]
+      ]
+    },
+    {
+      "question": "What coaching times are still open?",
+      "mustIncludeAny": [
+        [
+          "10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ",
+          "sign-up sheet",
+          "sign up sheet"
+        ]
+      ]
+    },
+    {
+      "question": "Where do I take the ROOL assessment?",
+      "mustIncludeAny": [
+        [
+          "roolsystem.com/strategic-plan-starter"
+        ]
+      ]
+    }
   ]
 }
