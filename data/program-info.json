@@ -3,9 +3,6 @@
     "name": "Strategic Planning Intensive",
     "overview": "A company's strategic plan is essential to making decisions, especially when resources are limited. You will leave this intensive with a working strategic plan that answers two fundamental questions: Where are we going, and how will we get there? You will define your mission, vision, and values; establish financial and other goals for the next three years; and identify the strategic initiatives and priorities needed to achieve them. You will also outline near-term tactics, the resources required to execute your plan, and metrics to gauge progress and effectiveness. Lastly, you will receive a customizable dashboard template designed for use with AI to help monitor progress against your strategic plan and support ongoing decision-making.",
     "keyDates": {
-      "sendApplications": "Thursday, October 1",
-      "applicationDeadline": "Sunday, October 11",
-      "selectAndNotify": "Tuesday, October 13",
       "preWorkStart": "Wednesday, October 21",
       "courseStart": "Wednesday, October 28",
       "courseEnd": "Tuesday, November 10",
@@ -18,7 +15,6 @@
       "Pressure-test and strengthen their strategic plan through structured peer feedback and individual advisor coaching.",
       "Deepen their relationships with PAV community, PAV and advisors"
     ],
-    "targetStudents": 10,
     "studentCriteria": {
       "companyFit": "PAV founders and select non-PAV founders of consumer product companies in outdoor and active categories.",
       "businessMaturity": "Product in market with demonstrated traction. At least 1 year of meaningful in-market experience. $100K+ annual revenue recommended, but not required; stage and traction matter more than a hard threshold. Established team or regular external resources beyond the founder.",
@@ -47,18 +43,6 @@
     }
   },
   "curriculum": [
-    {
-      "date": "Thursday, October 1",
-      "activity": "Send out Application"
-    },
-    {
-      "date": "Sunday, October 11",
-      "activity": "Applications due"
-    },
-    {
-      "date": "Tuesday, October 13",
-      "activity": "Select & notify candidates"
-    },
     {
       "date": "Wednesday, October 21",
       "activity": "Pre-work opens",
@@ -256,34 +240,6 @@
     "Follow-up satisfaction survey",
     "Check-in meeting with advisor after 6-12 months"
   ],
-  "application": {
-    "formReference": "https://docs.google.com/forms/d/1cHxUgJ8KUW78mGLcitOxPyI9-1YgCthBR0v8bAhCjzg/edit",
-    "deadline": "5PM SUNDAY, OCTOBER 11",
-    "description": "Path Ahead Ventures Strategic Planning Intensive (pre-work starts October 21; course runs October 28 - November 10)",
-    "criteria": [
-      "Limit 10 companies",
-      "Best suited for founders of outdoor product companies working full-time on their businesses",
-      "Product in market with demonstrated customer traction",
-      "Making consequential choices about growth, channels, products, resources, and organizational priorities",
-      "Typically companies with $100K or more in annual revenue",
-      "Expect to commit approximately 15 hours total"
-    ],
-    "questions": [
-      "Email",
-      "Company name",
-      "Product category (Apparel, Footwear, Gear/Hardgoods, CPG/Food, Other)",
-      "Briefly describe your company, core products, target customer, and primary sales channels (2-3 sentences)",
-      "Approximate revenue over the past trailing 12 months",
-      "How long have your products been commercially available?",
-      "Strongest evidence of meaningful customer traction (2-3 sentences with examples)",
-      "Which best describes your company today? (growth stage options)",
-      "Do you currently have a written multi-year strategic plan?",
-      "Can you set credible 3-year revenue, profit, and cash goals?",
-      "Confirmations: work full-time, authority to make decisions, commit 15 hours, participate candidly",
-      "What experience, perspective, or expertise would you bring to other founders?",
-      "Anything else you want to ask or share?"
-    ]
-  },
   "workshopLeads": {
     "mina": {
       "name": "Mina Yoo",

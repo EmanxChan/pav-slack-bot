@@ -32,7 +32,7 @@ export interface ProgramInfo {
   };
   curriculum: CurriculumItem[];
   postCourse: string[];
-  application: {
+  application?: {
     formReference: string;
     deadline: string;
     description: string;
