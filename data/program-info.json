@@ -182,7 +182,7 @@
       "howToSignUp": [
         "Put your name, company, and email into an open 1-hour slot with your paired advisor. First come, first served.",
         "Eman checks the sheet periodically and sends a calendar invite with the virtual meeting link.",
-        "To change or reschedule, or if none of the slots work, email Eman and your paired advisor for alternative times."
+        "To change or reschedule, or if none of the slots work, email Eman (emchan@rei.com) and your paired advisor for alternative times."
       ]
     },
     {
@@ -234,7 +234,7 @@
       "howToSignUp": [
         "Put your name, company, and email into an open 1-hour slot with your paired advisor. First come, first served.",
         "Eman checks the sheet periodically and sends a calendar invite with the virtual meeting link.",
-        "To change or reschedule, or if none of the slots work, email Eman and your paired advisor for alternative times."
+        "To change or reschedule, or if none of the slots work, email Eman (emchan@rei.com) and your paired advisor for alternative times."
       ]
     },
     {
@@ -301,9 +301,6 @@
   },
   "resources": {
     "decks": {
-      "2026AscentBasecampPreRead": "https://docs.google.com/presentation/d/1kqGC4TPDkGRDCswY4oevZbYXBPN8ZCoe/edit?usp=sharing&ouid=101691441614913261974&rtpof=true&sd=true",
-      "2026KickoffSession": "https://docs.google.com/presentation/d/11NFjacXD_M7RRrTIBQRWolyO9PprJjmO/edit?usp=sharing&ouid=101691441614913261974&rtpof=true&sd=true",
-      "2026BasecampSession": "https://docs.google.com/presentation/d/1uLXhf8AZcVlVnI4EC49Tb5-Cz4H_JY3_7I1X2HGQDDM/edit?usp=sharing",
       "preWorkPresentation": "https://drive.google.com/file/d/1IcCaBIUdWx9J4VW0qJrPB90yFcEsnIjk/view?usp=sharing"
     },
     "documents": {
@@ -338,7 +335,8 @@
         "Slack access and channel issues",
         "Submitting your final slides and two-page plan",
         "Anything else not listed below"
-      ]
+      ],
+      "email": "emchan@rei.com"
     },
     "Mina & Mona (workshop leads and advisors)": {
       "handles": [
