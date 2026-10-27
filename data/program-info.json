@@ -359,5 +359,10 @@
     "learnMore": "https://www.rei.com/path-ahead",
     "contactEmail": "pathaheadventures@rei.com",
     "note": "For questions about other PAV programs, eligibility, or investment, point founders to the website or the PAV team rather than making promises."
+  },
+  "faq": {
+    "Are workshops recorded?": "Yes. Recordings will be shared once they are available. They are not posted yet.",
+    "What if I miss a session?": "Watch the recording once it is shared, and let Eman know you missed it.",
+    "What if I am running late on homework or the final plan?": "Let Eman know as soon as you can. Pavey cannot grant extensions."
   }
 }
