@@ -169,9 +169,11 @@
       "question": "How big are the peer feedback groups?",
       "mustIncludeAny": [
         [
-          "three",
-          "3-person",
-          "3 person"
+          "2 to 3",
+          "2-3",
+          "two or three",
+          "2–3",
+          "three"
         ]
       ]
     },
@@ -207,6 +209,66 @@
       "mustIncludeAny": [
         [
           "roolsystem.com/strategic-plan-starter"
+        ]
+      ]
+    },
+    {
+      "question": "What did we cover in Workshop 1?",
+      "mustIncludeAny": [
+        [
+          "mission"
+        ],
+        [
+          "defining choices",
+          "defining choice"
+        ]
+      ]
+    },
+    {
+      "question": "What do I need to bring to the peer feedback session?",
+      "mustIncludeAny": [
+        [
+          "Page 1",
+          "page one"
+        ]
+      ]
+    },
+    {
+      "question": "What are the five areas for strategic initiatives?",
+      "mustIncludeAny": [
+        [
+          "sales"
+        ],
+        [
+          "marketing"
+        ],
+        [
+          "operations"
+        ],
+        [
+          "product"
+        ],
+        [
+          "financ"
+        ]
+      ]
+    },
+    {
+      "question": "How do I know if I made enough defining choices?",
+      "mustIncludeAny": [
+        [
+          "not now",
+          "say no"
+        ]
+      ]
+    },
+    {
+      "question": "Where is the Workshop 1 recording?",
+      "mustIncludeAny": [
+        [
+          "soon",
+          "not yet",
+          "coming"
         ]
       ]
     }

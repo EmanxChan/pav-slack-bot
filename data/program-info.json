@@ -117,6 +117,75 @@
         "Come ready to participate and engage with your fellow founders.",
         "Complete the pre-work and the ROOL assessment so you get the most out of the session.",
         "If a co-founder or key team member is joining you, feel free to share the workshop details with them."
+      ],
+      "recording": {
+        "status": "Coming soon. The PAV team will share the link here and by email.",
+        "link": null
+      },
+      "recap": {
+        "source": "Summary of the Workshop 1 session on Wednesday, October 28 (from the transcript). Covers what Mina and Mona taught and the next steps. It does not include what individual founders shared about their businesses.",
+        "bigIdeas": [
+          "You can't do everything. At this stage (roughly $100K to $1M in revenue) there are far more things you could do than you have time, money or people for. The plan helps you decide where to focus, and when to say no or 'not now'.",
+          "Bring a rough first draft, not a perfect one. Make the best choices you can with the information you have, then test, learn and iterate.",
+          "A strategic plan is not set in stone. Review it every quarter (an hour with your team is enough) and do a deeper dive once a year.",
+          "Involve your team where you can. More perspectives make better choices, and people who help shape the plan are more bought in to executing it.",
+          "Even large companies work with imperfect data. Every plan involves educated guesses."
+        ],
+        "planFramework": {
+          "eightChapters": "The plan has 8 chapters. Strategic direction: 1. Mission, Vision & Values, 2. Goals, 3. Defining Choices. Execution: 4. Strategic Initiatives, 5. Essential Priorities, 6. Measurements, 7. Tactics (next year, 2027), 8. Resources (next year, 2027).",
+          "horizon": "Three-year plan: initiatives run January 2027 through 2029, with goals for fiscal year 2029. Tactics and resources get specific for 2027.",
+          "altitude": "Every part of the plan sits at an 'altitude', from big picture (mission, vision) down to near-term detail (tactics, resources). Check you're at the right altitude for the section you're writing. If you're writing your vision and end up debating which trade show to attend, you've dropped too low."
+        },
+        "missionVisionValues": {
+          "mission": "Why the company exists and how you fulfill that purpose.",
+          "vision": "The future state you want to create, 5 to 10 years out. Loftier and longer-lasting than the mission.",
+          "values": "The principles that guide how you operate, and a real tool when you're stuck on a hard decision (for example, a people decision or how sustainable to make a product). One company kept an orange 'values chair' in its conference room to ask 'what would our values tell us to do?'",
+          "tips": [
+            "Clarity of thought matters more than polished wording.",
+            "Write the mission at a higher altitude: focus on the human, emotional or health benefit, not product features. Lumi's mission is about making people safer, not about having the brightest light.",
+            "Mission and vision should be evergreen across your whole business, not tailored to different audiences. They contain a choice about who you serve. Pick a lane and own it."
+          ]
+        },
+        "goals": {
+          "what": "Measurable targets that define success for fiscal year 2029: revenue, profit and year-end cash, plus other important outcomes. Quantitative is best, qualitative is OK, and they should be grounded in a three-year financial model.",
+          "tips": [
+            "There's no single right growth rate. It depends on your category, business model, whether you raise capital or bootstrap, and your personal ambition for the business.",
+            "Know the assumptions behind each goal: market size, product-market fit and competition for revenue; pricing and supply chain for profit; inventory, payment terms and financing for cash.",
+            "Be clear which goal matters most right now (for example revenue vs. profitability), because it shapes every decision below it.",
+            "A goal says what outcome you want, not how you'll get there. The how comes next."
+          ]
+        },
+        "definingChoices": {
+          "keyLine": "If the plan does not cause you to say no, or at least 'not now', to some opportunities, you aren't making enough choices.",
+          "parts": [
+            "Where we focus: where you concentrate your resources.",
+            "How we create advantage: why customers or partners choose you over the alternatives.",
+            "Capabilities: what you must be genuinely good at to execute."
+          ],
+          "tips": [
+            "The three parts form a cascade. A choice in one area ripples into the others.",
+            "Splitting everything 50/50 means you've made no choices.",
+            "Choices aren't permanent. Commit, test and learn, and revisit in six months or a year."
+          ]
+        },
+        "initiativesAndPriorities": {
+          "initiatives": "The big, multi-year buckets (2027 to 2029) you must achieve to reach your goals. Think across five areas: sales, marketing, operations (systems, processes and team), product, and finance.",
+          "priorities": "What must happen for each initiative to succeed. Good priorities are concrete, and they also make clear what you won't do.",
+          "lumiExample": "Lumi's goal: $6M in three years. Choices: specialty wholesale first, D2C second, US focus. Sales initiative: scale US specialty wholesale while building a sustainably profitable D2C business. Priorities: add accounts in outdoor, hardware and travel through sales reps (not by hiring in-house sales managers); maximize sell-through and velocity, not just doors; improve D2C profitability with disciplined customer-acquisition economics.",
+          "measurements": "Measurements and dashboards are covered in Workshop 2."
+        },
+        "materials": "After the workshop, the PAV team is emailing: the workshop deck, the strategic plan template (two worksheets: Page 1 and Page 2), a full Lumi strategic plan to use as an example, and your ROOL AI-generated starting-point plan. The ROOL plan is a beta starting point. Use it as much or as little as you like, like looking at another company's plan for ideas. Check your email, and message Eman if anything is missing.",
+        "teamsTip": "Breakout rooms didn't work for some people who joined while signed into a personal or free Microsoft Teams account. If that happens, sign out and join as a guest (for example from your web browser)."
+      },
+      "nextSteps": [
+        "Now through Thursday, Oct 29: draft Page 1 of your strategic plan (with your team if you can). Use the Lumi plan and your ROOL plan as inspiration. You can leave out measurements for now.",
+        "Friday, Oct 30, 10 to 11 AM PT: Peer Feedback Session. Share your Page 1 draft with your peer group for feedback. Guidance on how to run the conversation is coming by email.",
+        "Friday, Oct 30 to Tuesday, Nov 3: Advisor Coaching #1 with your core advisor to go over your Page 1 draft. Book on the sign-up sheet if you haven't yet.",
+        "Tuesday, Nov 3, 12 to 2:30 PM PT: Workshop 2. Bring a completed Page 1 draft (rough is fine) to share in small groups. There will be more small-group time this session.",
+        "Wednesday, Nov 4: draft your Page 1 measurements and Page 2 (tactics and resources for 2027).",
+        "Thursday to Friday, Nov 5 to 6: Advisor Coaching #2 to finalize Page 1 and review your Page 2 draft.",
+        "Monday, Nov 9: complete both pages and send them, with your slides, to Eman by 5pm PT.",
+        "Tuesday, Nov 10: present your plan (about 10 minutes) to the Path Ahead team."
       ]
     },
     {
@@ -129,11 +198,12 @@
       "time": "10:00 - 11:00 AM PT",
       "activity": "Peer Feedback Session",
       "details": "Pressure-test goals, strategic initiatives, priorities and major tradeoffs, measurements (founder-only groups of 3-4)",
-      "summary": "Meet in three-person peer groups to pressure-test your goals, strategic initiatives, and priorities.",
+      "summary": "Meet in your small peer group (2 to 3 companies who share the same advisor) to share your Page 1 draft and get feedback on your goals, strategic initiatives and priorities. Measurements can be left out.",
       "platform": "Microsoft Teams",
       "joinLink": "https://teams.microsoft.com/meet/2375501143988418?p=QwyiBcxzQ691VuaVKX",
       "meetingId": "237 550 114 398 841 8",
-      "passcode": "3CM3YY23"
+      "passcode": "3CM3YY23",
+      "groups": "Four peer groups: Mina A, Mina B, Mona A and Mona B. They're the same groups as the Workshop 1 breakouts, and each group shares the same core advisor."
     },
     {
       "date": "Friday, October 30 - Tuesday, November 3",
@@ -174,17 +244,19 @@
       "platform": "Microsoft Teams",
       "joinLink": "https://teams.microsoft.com/meet/2921011738105651?p=Fezf83xMc81phPxjRH",
       "meetingId": "292 101 173 810 565 1",
-      "passcode": "VN3Ay3ij"
+      "passcode": "VN3Ay3ij",
+      "bringWith": "A completed draft of Page 1 (rough is fine), ready to share in small groups.",
+      "covers": "Measurements and dashboards, then Page 2: tactics and resources for 2027."
     },
     {
       "date": "Wednesday, November 4",
       "activity": "Independent work",
-      "details": "Write and refine Page 2 all; integrate Pages 1 and 2 into a complete plan"
+      "details": "Draft your Page 1 measurements and Page 2 of the plan (tactics and resources for 2027). Then bring Pages 1 and 2 together into a complete plan."
     },
     {
       "date": "Thursday, November 5 - Friday, November 6",
       "activity": "Advisor Coaching #2",
-      "details": "Final strategic review and refinement; prepare for PAV presentation. 6 companies each.",
+      "details": "Final meeting with your core advisor to finalize Page 1 and review your Page 2 draft, and prepare for the PAV presentation.",
       "signUpSheet": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0",
       "minaSchedule": {
         "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09"
@@ -211,7 +283,8 @@
       "meetingId": "282 168 786 650 703 0",
       "passcode": "CZ38Pr94",
       "submission": "Send your slides and two-page plan directly to Eman (<@U0C6J5X39NU>) by 5pm PT on Monday, November 9, the day before the presentation.",
-      "format": "Each founder gives a 10-minute presentation."
+      "format": "Each founder gives a 10-minute presentation.",
+      "audience": "The Path Ahead Ventures team, including Keenan, Eman and Elizabeth. A chance to practice presenting, get input, and get visibility with REI."
     }
   ],
   "postCourse": [
@@ -224,13 +297,15 @@
       "name": "Mina Yoo",
       "role": "Workshop Lead & Advisor",
       "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09",
-      "slackUserId": "U05SPV4SQ1E"
+      "slackUserId": "U05SPV4SQ1E",
+      "background": "From her Workshop 1 intro: former professor at the University of Washington who studied small businesses; founded HeroClip, which was acquired in 2022; since then an Entrepreneur in Residence at Path Ahead Ventures. She and Mona have worked with over 100 companies."
     },
     "mona": {
       "name": "Mona West",
       "role": "Workshop Lead & Advisor",
       "zoom": "https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1",
-      "slackUserId": "U05BCQL6PEG"
+      "slackUserId": "U05BCQL6PEG",
+      "background": "From her Workshop 1 intro: about 15 years in the outdoor industry and 25 in consumer products, including an executive role at Cascade Designs (MSR, Therm-a-Rest, Platypus) running a $20M business unit. For the past 10 years she has worked with outdoor startups as a fractional executive, and has worked closely with 45+ startups through Path Ahead."
     }
   },
   "resources": {
@@ -300,9 +375,10 @@
     "note": "For questions about other PAV programs, eligibility, or investment, point founders to the website or the PAV team rather than making promises."
   },
   "faq": {
-    "Are workshops recorded?": "Yes. Recordings will be shared once they are available. They are not posted yet.",
-    "What if I miss a session?": "Watch the recording once it is shared, and let Eman know you missed it.",
-    "What if I am running late on homework or the final plan?": "Let Eman know as soon as you can. Pavey cannot grant extensions."
+    "Are workshops recorded?": "Yes. The Workshop 1 recording is coming soon, and the PAV team will share the link. Pavey can also recap what was covered.",
+    "What if I miss a session?": "Ask Pavey for a recap, watch the recording once it is shared, and let Eman know you missed it.",
+    "What if I am running late on homework or the final plan?": "Let Eman know as soon as you can. Pavey cannot grant extensions.",
+    "I had trouble joining breakout rooms in Teams.": "Breakout rooms didn't work for some people who joined while signed into a personal or free Microsoft Teams account. If that happens, sign out and join as a guest (for example from your web browser)."
   },
   "cohort": {
     "note": "The founders in this Intensive and their paired advisor. Each company books advisor coaching only with its paired advisor.",
@@ -431,5 +507,6 @@
         ]
       }
     ]
-  }
+  },
+  "communication": "Email is the main channel for program updates. Use the private Slack channel for quick questions (for example, a broken link), and to message fellow founders, Mina, Mona or Eman."
 }
