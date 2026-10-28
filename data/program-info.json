@@ -119,8 +119,10 @@
         "If a co-founder or key team member is joining you, feel free to share the workshop details with them."
       ],
       "recording": {
-        "status": "Coming soon. The PAV team will share the link here and by email.",
-        "link": null
+        "status": "Available",
+        "link": "https://reiweb.sharepoint.com/:v:/s/PathAheadVentures/IQD1eLKD26BjQbzXV2kmFzmeAaU2fcr2ikEAdsLhzDNiH1M?e=RLt7mF",
+        "length": "About 2 hours 28 minutes",
+        "note": "Hosted on REI SharePoint. If it asks you to sign in or request access, message Eman."
       },
       "recap": {
         "source": "Summary of the Workshop 1 session on Wednesday, October 28 (from the transcript). Covers what Mina and Mona taught and the next steps. It does not include what individual founders shared about their businesses.",
@@ -375,7 +377,7 @@
     "note": "For questions about other PAV programs, eligibility, or investment, point founders to the website or the PAV team rather than making promises."
   },
   "faq": {
-    "Are workshops recorded?": "Yes. The Workshop 1 recording is coming soon, and the PAV team will share the link. Pavey can also recap what was covered.",
+    "Are workshops recorded?": "Yes. The Workshop 1 recording is available (link in the Workshop 1 details). Recordings for later sessions will be shared once they are ready. Pavey can also recap what was covered.",
     "What if I miss a session?": "Ask Pavey for a recap, watch the recording once it is shared, and let Eman know you missed it.",
     "What if I am running late on homework or the final plan?": "Let Eman know as soon as you can. Pavey cannot grant extensions.",
     "I had trouble joining breakout rooms in Teams.": "Breakout rooms didn't work for some people who joined while signed into a personal or free Microsoft Teams account. If that happens, sign out and join as a guest (for example from your web browser)."
