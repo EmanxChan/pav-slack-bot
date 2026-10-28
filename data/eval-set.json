@@ -269,6 +269,32 @@
           "IQD1eLKD26BjQbzXV2kmFzmeAaU2fcr2ikEAdsLhzDNiH1M"
         ]
       ]
+    },
+    {
+      "question": "Where can I find the Workshop 1 deck and the strategic plan template?",
+      "mustIncludeAny": [
+        [
+          "1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB"
+        ]
+      ]
+    },
+    {
+      "question": "When will I get my ROOL plan?",
+      "mustIncludeAny": [
+        [
+          "Mina",
+          "U05SPV4SQ1E"
+        ]
+      ]
+    },
+    {
+      "question": "What should I bring to my advisor coaching session?",
+      "mustIncludeAny": [
+        [
+          "Page 1",
+          "page one"
+        ]
+      ]
     }
   ]
 }
