@@ -295,6 +295,38 @@
           "page one"
         ]
       ]
+    },
+    {
+      "question": "Who is in my peer group?",
+      "asker": "Ian Hughes",
+      "mustIncludeAny": [
+        [
+          "Mina B"
+        ]
+      ],
+      "mustNotInclude": []
+    },
+    {
+      "question": "Who is in Mona A?",
+      "mustIncludeAny": [
+        [
+          "Campfire"
+        ],
+        [
+          "COBA"
+        ],
+        [
+          "Pao"
+        ]
+      ]
+    },
+    {
+      "question": "Where is the strategic plan template?",
+      "mustIncludeAny": [
+        [
+          "1ixpRaK_4s4afszZvS-U6hu2FqE54kFrR8aEhxMk4Hng"
+        ]
+      ]
     }
   ]
 }
