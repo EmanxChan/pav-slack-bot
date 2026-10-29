@@ -266,8 +266,11 @@
       "question": "Where is the Workshop 1 recording?",
       "mustIncludeAny": [
         [
-          "IQD1eLKD26BjQbzXV2kmFzmeAaU2fcr2ikEAdsLhzDNiH1M"
+          "p1793246585181889"
         ]
+      ],
+      "mustNotInclude": [
+        "sharepoint"
       ]
     },
     {
