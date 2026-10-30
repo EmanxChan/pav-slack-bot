@@ -207,10 +207,10 @@
       ]
     },
     {
-      "question": "Where do I take the ROOL assessment?",
+      "question": "Where are the ROOL assessments?",
       "mustIncludeAny": [
         [
-          "roolsystem.com/strategic-plan-starter"
+          "153OXL1B-o-Eqs_DJ4uA0_3zi8pPrPd9T"
         ]
       ]
     },
@@ -288,8 +288,7 @@
       "question": "When will I get my ROOL plan?",
       "mustIncludeAny": [
         [
-          "Mina",
-          "U05SPV4SQ1E"
+          "153OXL1B-o-Eqs_DJ4uA0_3zi8pPrPd9T"
         ]
       ]
     },
@@ -340,6 +339,22 @@
         [
           "calendar invite",
           "calendar"
+        ]
+      ]
+    },
+    {
+      "question": "I never did the ROOL questionnaire, where do I fill it out?",
+      "mustIncludeAny": [
+        [
+          "roolsystem.com/strategic-plan-starter"
+        ]
+      ]
+    },
+    {
+      "question": "Where's the discussion guide for the peer session?",
+      "mustIncludeAny": [
+        [
+          "1UYqusw5_AhDlhR31PkwF-rV1rt3SWifB"
         ]
       ]
     }
