@@ -56,8 +56,7 @@
         "ROOL Questionnaire – finances/choices like breakeven/marketing spend/gross margin/sku/ops"
       ],
       "roolAssessment": {
-        "assessmentsFolder": "https://drive.google.com/drive/folders/153OXL1B-o-Eqs_DJ4uA0_3zi8pPrPd9T?usp=sharing",
-        "folderNote": "All ROOL assessments (each company's ROOL draft strategic plan and report) are in this shared Google Drive folder. When anyone asks about ROOL assessments, their ROOL plan, or where to find their ROOL results, send them to this folder.",
+        "folderNote": "Each company has its own ROOL folder with its ROOL draft strategic plan and report. Pavey can share a founder's own company folder (it is provided separately when known). Never share another company's folder or plan.",
         "questionnaireLink": "https://roolsystem.com/strategic-plan-starter",
         "due": "12pm PT, Monday, October 26",
         "note": "The ROOL questionnaire was due Oct 26. Only share the questionnaire link with a founder who says they have not completed it yet."
@@ -180,7 +179,7 @@
           "measurements": "Measurements and dashboards are covered in Workshop 2.",
           "ordering": "List your Strategic Initiatives in priority order, top to bottom, with the ones most critical to your 2029 Goals first. That makes the plan more useful for decisions and for deciding where to put resources."
         },
-        "materials": "Workshop 1 files are in a shared Google Drive folder: https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing . It has a PDF of the deck, a PDF of the Lumi strategic plan, and the strategic plan template as a Google Sheet (make your own copy with File > Make a copy). The recording is on YouTube: https://www.youtube.com/watch?v=bLKJ5ltTXq4 . ROOL assessments (your ROOL draft strategic plan) are in this shared folder: https://drive.google.com/drive/folders/153OXL1B-o-Eqs_DJ4uA0_3zi8pPrPd9T?usp=sharing . The ROOL plan is a beta starting point. Use it as much or as little as you like.",
+        "materials": "Workshop 1 files are in a shared Google Drive folder: https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing . It has a PDF of the deck, a PDF of the Lumi strategic plan, and the strategic plan template as a Google Sheet (make your own copy with File > Make a copy). The recording is on YouTube: https://www.youtube.com/watch?v=bLKJ5ltTXq4 . Your ROOL assessment (ROOL draft strategic plan) is in your company's own ROOL folder. Ask Pavey for your link. The ROOL plan is a beta starting point. Use it as much or as little as you like.",
         "teamsTip": "Breakout rooms didn't work for some people who joined while signed into a personal or free Microsoft Teams account. If that happens, sign out and join as a guest (for example from your web browser).",
         "initiativesTip": "List your Strategic Initiatives in priority order, top to bottom, with the ones most critical to your 2029 Goals first. That makes the plan more useful for decisions and for deciding where to put resources."
       },
@@ -238,7 +237,7 @@
         ],
         "notListed": "HercLeon was not on the Workshop 1 peer group slide. HercLeon founders should email Eman (emchan@rei.com) or DM him on Slack for their Friday group."
       },
-      "prepare": "Bring your draft of Page 1 (everything except the measurements section). A rough draft is fine. Have the discussion guide open: https://drive.google.com/file/d/1UYqusw5_AhDlhR31PkwF-rV1rt3SWifB/view . Your ROOL assessment is here if you want it handy: https://drive.google.com/drive/folders/153OXL1B-o-Eqs_DJ4uA0_3zi8pPrPd9T?usp=sharing .",
+      "prepare": "Bring your draft of Page 1 (everything except the measurements section). A rough draft is fine. Have the discussion guide open: https://drive.google.com/file/d/1UYqusw5_AhDlhR31PkwF-rV1rt3SWifB/view . Have your ROOL assessment handy too (ask Pavey for your company's folder link).",
       "discussionGuide": "https://drive.google.com/file/d/1UYqusw5_AhDlhR31PkwF-rV1rt3SWifB/view",
       "founderOnly": "This is founder-only time. Mina and Mona will not be in the peer sessions.",
       "howToJoin": "Calendar invites for each peer group have already been sent. Use the link in your calendar invite for your group's session. If you can't find it or have trouble joining, email Eman (emchan@rei.com) or DM him on Slack."
@@ -357,7 +356,6 @@
       "workshop1Folder": "https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing",
       "workshop1Deck": "https://drive.google.com/file/d/1UpJ40wdpcVsULaXdZsROsVbq7R7wXvEL/view?usp=sharing",
       "lumiStrategicPlan": "https://drive.google.com/file/d/1teY5qieOeohvb2v6Qzaf2iUYln5qQWBt/view?usp=sharing",
-      "roolAssessmentsFolder": "https://drive.google.com/drive/folders/153OXL1B-o-Eqs_DJ4uA0_3zi8pPrPd9T?usp=sharing",
       "peerSessionDiscussionGuide": "https://drive.google.com/file/d/1UYqusw5_AhDlhR31PkwF-rV1rt3SWifB/view"
     },
     "spreadsheets": {

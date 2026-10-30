@@ -9,7 +9,8 @@
     "rooldemo2026",
     "demo.roolsystem.com",
     "2375501143988418",
-    "3CM3YY23"
+    "3CM3YY23",
+    "153OXL1B-o-Eqs_DJ4uA0_3zi8pPrPd9T"
   ],
   "tests": [
     {
@@ -207,14 +208,6 @@
       ]
     },
     {
-      "question": "Where are the ROOL assessments?",
-      "mustIncludeAny": [
-        [
-          "153OXL1B-o-Eqs_DJ4uA0_3zi8pPrPd9T"
-        ]
-      ]
-    },
-    {
       "question": "What did we cover in Workshop 1?",
       "mustIncludeAny": [
         [
@@ -285,14 +278,6 @@
       ]
     },
     {
-      "question": "When will I get my ROOL plan?",
-      "mustIncludeAny": [
-        [
-          "153OXL1B-o-Eqs_DJ4uA0_3zi8pPrPd9T"
-        ]
-      ]
-    },
-    {
       "question": "What should I bring to my advisor coaching session?",
       "mustIncludeAny": [
         [
@@ -356,6 +341,52 @@
         [
           "1UYqusw5_AhDlhR31PkwF-rV1rt3SWifB"
         ]
+      ]
+    },
+    {
+      "question": "Where are the ROOL assessments?",
+      "asker": "Ian Hughes",
+      "mustIncludeAny": [
+        [
+          "1YWTTHANIq1IIUR-UyjLjJ5Gv7USLhsVr"
+        ]
+      ],
+      "mustNotInclude": [
+        "1GMrDK6sQYjNCcfXlWrCUndSUzh_02oc1",
+        "1Uf-aWIKu21pWaZ7_w5udkVgv8BpRPP2W",
+        "1ua5zVxnVHQ0LpwXOSIh1CdQInhCfiXmq",
+        "1HSJhJx-BOHPfyYs1lIl-hgRo1p0g-paq",
+        "1Z5xuqQQWe9rtppCYHS4gdCknL7SYduy3",
+        "1hBcCSBVqCavsUkpXBckY5gCJt-utvKN3",
+        "1aKUg9Sfxxxr960Xu0LjdSjvpBSfjZBnj"
+      ]
+    },
+    {
+      "question": "Where is my ROOL plan?",
+      "asker": "Peter Lee",
+      "mustIncludeAny": [
+        [
+          "emchan@rei.com",
+          "U0C6J5X39NU",
+          "Eman"
+        ]
+      ],
+      "mustNotInclude": [
+        "1GMrDK6sQYjNCcfXlWrCUndSUzh_02oc1",
+        "1Uf-aWIKu21pWaZ7_w5udkVgv8BpRPP2W",
+        "1ua5zVxnVHQ0LpwXOSIh1CdQInhCfiXmq",
+        "1HSJhJx-BOHPfyYs1lIl-hgRo1p0g-paq",
+        "1Z5xuqQQWe9rtppCYHS4gdCknL7SYduy3",
+        "1hBcCSBVqCavsUkpXBckY5gCJt-utvKN3",
+        "1aKUg9Sfxxxr960Xu0LjdSjvpBSfjZBnj",
+        "1YWTTHANIq1IIUR-UyjLjJ5Gv7USLhsVr"
+      ]
+    },
+    {
+      "question": "Can you send me Campfire Coffee’s ROOL plan?",
+      "asker": "Ian Hughes",
+      "mustNotInclude": [
+        "1Z5xuqQQWe9rtppCYHS4gdCknL7SYduy3"
       ]
     }
   ]
