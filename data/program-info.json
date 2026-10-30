@@ -120,8 +120,8 @@
       ],
       "recording": {
         "status": "Available",
-        "link": "https://pathaheadventures.slack.com/archives/C0CB6UHBVE0/p1793246585181889",
-        "where": "Posted in the program Slack channel. Click the link to open and watch it in Slack.",
+        "link": "https://www.youtube.com/watch?v=bLKJ5ltTXq4",
+        "where": "YouTube",
         "length": "About 2 hours 28 minutes",
         "note": "If the link does not open, message Eman."
       },
@@ -178,7 +178,7 @@
           "measurements": "Measurements and dashboards are covered in Workshop 2.",
           "ordering": "List your Strategic Initiatives in priority order, top to bottom, with the ones most critical to your 2029 Goals first. That makes the plan more useful for decisions and for deciding where to put resources."
         },
-        "materials": "Workshop 1 files are in a shared Google Drive folder: https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing . It has a PDF of the deck, a PDF of the Lumi strategic plan, and the strategic plan template as a Google Sheet (make your own copy with File > Make a copy). The recording is posted in the program Slack channel: https://pathaheadventures.slack.com/archives/C0CB6UHBVE0/p1793246585181889 . Your ROOL draft strategic plan comes from Mina by email: most founders get it by end of day Wednesday, Oct 28, and a few founders she sent follow-up questions to will get it Thursday morning, Oct 29. Check your email for a message from Mina. The ROOL plan is a beta starting point. Use it as much or as little as you like.",
+        "materials": "Workshop 1 files are in a shared Google Drive folder: https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing . It has a PDF of the deck, a PDF of the Lumi strategic plan, and the strategic plan template as a Google Sheet (make your own copy with File > Make a copy). The recording is on YouTube: https://www.youtube.com/watch?v=bLKJ5ltTXq4 . Your ROOL draft strategic plan comes from Mina by email: most founders get it by end of day Wednesday, Oct 28, and a few founders she sent follow-up questions to will get it Thursday morning, Oct 29. Check your email for a message from Mina. The ROOL plan is a beta starting point. Use it as much or as little as you like.",
         "teamsTip": "Breakout rooms didn't work for some people who joined while signed into a personal or free Microsoft Teams account. If that happens, sign out and join as a guest (for example from your web browser).",
         "initiativesTip": "List your Strategic Initiatives in priority order, top to bottom, with the ones most critical to your 2029 Goals first. That makes the plan more useful for decisions and for deciding where to put resources."
       },
@@ -213,10 +213,6 @@
       "activity": "Peer Feedback Session",
       "details": "Pressure-test goals, strategic initiatives, priorities and major tradeoffs, measurements (founder-only groups of 3-4)",
       "summary": "Meet in your small peer group (2 to 3 companies who share the same advisor) to share your Page 1 draft and get feedback on your goals, strategic initiatives and priorities. Measurements can be left out.",
-      "platform": "Microsoft Teams",
-      "joinLink": "https://teams.microsoft.com/meet/2375501143988418?p=QwyiBcxzQ691VuaVKX",
-      "meetingId": "237 550 114 398 841 8",
-      "passcode": "3CM3YY23",
       "groups": {
         "note": "From the Workshop 1 deck. Each peer group shares the same core advisor. These are the same groups as the Workshop 1 breakouts.",
         "Mina A": [
@@ -240,7 +236,8 @@
         ],
         "notListed": "HercLeon was not on the Workshop 1 peer group slide. HercLeon founders should check with Eman for their Friday group."
       },
-      "prepare": "Bring your draft of Page 1 (everything except the measurements section). A rough draft is fine. What matters is getting something on paper. A discussion guide for peer groups will be emailed on Thursday, Oct 29."
+      "prepare": "Bring your draft of Page 1 (everything except the measurements section). A rough draft is fine. What matters is getting something on paper. A discussion guide for peer groups will be emailed on Thursday, Oct 29.",
+      "howToJoin": "Each peer group has its own meeting link. Use the link in your calendar invite for your group's session. If you can't find it, message Eman."
     },
     {
       "date": "Friday, October 30 - Tuesday, November 3",

@@ -7,7 +7,9 @@
     "$17K",
     "17,000",
     "rooldemo2026",
-    "demo.roolsystem.com"
+    "demo.roolsystem.com",
+    "2375501143988418",
+    "3CM3YY23"
   ],
   "tests": [
     {
@@ -266,11 +268,12 @@
       "question": "Where is the Workshop 1 recording?",
       "mustIncludeAny": [
         [
-          "p1793246585181889"
+          "youtube.com/watch?v=bLKJ5ltTXq4"
         ]
       ],
       "mustNotInclude": [
-        "sharepoint"
+        "sharepoint",
+        "slack.com/archives"
       ]
     },
     {
@@ -328,6 +331,15 @@
       "mustIncludeAny": [
         [
           "1ixpRaK_4s4afszZvS-U6hu2FqE54kFrR8aEhxMk4Hng"
+        ]
+      ]
+    },
+    {
+      "question": "How do I join the peer feedback session?",
+      "mustIncludeAny": [
+        [
+          "calendar invite",
+          "calendar"
         ]
       ]
     }
