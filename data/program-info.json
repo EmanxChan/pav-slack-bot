@@ -402,7 +402,7 @@
       "submission": "Send your slides and two-page plan (Pages 1 and 2 of the spreadsheet) directly to Eman (<@U0C6J5X39NU>) by 5pm PT on Monday, November 9.",
       "format": "Each founder gets a 10-minute slot: about 3 minutes presenting your high-level plan (your goals and your strategic initiatives), plus one ask of the Path Ahead team, then about 7 minutes of Q&A.",
       "audience": "The Path Ahead Ventures team, including Keenan Corrigan (Director of Path Ahead Ventures) and Eman, plus Mina and Mona.",
-      "slide": "Prepare one slide covering your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team that would help you achieve your plan. The PAV team is sharing a PowerPoint template on Wednesday, Nov 4, by email and Slack. Send your slide and your final Pages 1 and 2 to Eman by 5pm PT Monday, Nov 9.",
+      "slide": "Prepare one slide covering your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team. Use the slide template (Google Slides). Make your own copy first with this link: https://docs.google.com/presentation/d/1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/copy . Please do not edit the original template directly. One page only; you can change the look as long as all the content is there. Send your slide and your final Pages 1 and 2 to Eman by 5pm PT Monday, Nov 9.",
       "theAsk": "One realistic, doable ask of the Path Ahead team that would help you achieve your plan. For example: introductions to founders who have sold into convenience stores, or someone to explain how the REI buying calendar works.",
       "tone": "Low pressure and low risk, with no strings attached. It's a chance for the PAV team to get to know you and your plan.",
       "signUp": "No sign-up needed. The PAV team is putting together a run of show and will share the order of presentations by the end of the week. Watching other founders present is encouraged but optional."
@@ -432,7 +432,16 @@
   },
   "resources": {
     "decks": {
-      "preWorkPresentation": "https://drive.google.com/file/d/1IcCaBIUdWx9J4VW0qJrPB90yFcEsnIjk/view?usp=sharing"
+      "preWorkPresentation": "https://drive.google.com/file/d/1IcCaBIUdWx9J4VW0qJrPB90yFcEsnIjk/view?usp=sharing",
+      "presentationSlideTemplate": {
+        "name": "Nov 10 presentation slide template (Google Slides)",
+        "copyLink": "https://docs.google.com/presentation/d/1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/copy",
+        "originalLink": "https://docs.google.com/presentation/d/1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/edit",
+        "howToUse": "Make your own copy first. The easiest way is the copy link, which opens a 'Make a copy' button that saves the slide to your own Google Drive. Or open the original and go to File > Make a copy. Please do not edit the original template directly, since every founder shares it. Rename your copy with your company name.",
+        "contents": "Page 1 is the slide to fill in: company name, your 2029 goals (up to four, each with a target), one strategic initiative in each of the five areas (Sales, Marketing, Operations, Product, Financial Model), each starting with a verb, and your Ask of Path Ahead: the ONE thing Path Ahead can do to move you toward your goals. Page 2 is a filled-in example (2029 goals like Revenue $6MM, Profit $750K, Cash $500K, 4 product lines, five initiatives, and an ask for introductions to specialty outdoor, hardware and travel retail buyers).",
+        "rules": "One page only. Feel free to change the look and format and make it your own, as long as all the content is there. It supports about 3 minutes of presenting plus 7 minutes of Q&A.",
+        "submit": "Send your finished slide (with your final Pages 1 and 2) to Eman at emchan@rei.com by 5pm PT Monday, Nov 9. Sharing a link to your copy or attaching a PDF or PowerPoint both work."
+      }
     },
     "documents": {
       "lumiCase": "https://drive.google.com/file/d/1Fpzemnat_GM1Sx0ozNozYWW8YujqvOaG/view?usp=sharing",
@@ -636,7 +645,7 @@
       {
         "when": "Wednesday, Nov 4",
         "todo": "Draft your Page 1 measurements and Page 2 (2027 tactics and resources) in the strategic plan template.",
-        "also": "The PAV team shares the PowerPoint slide template by email and Slack."
+        "also": "The presentation slide template is out. Make your own copy with this link and work in your copy, not the original: https://docs.google.com/presentation/d/1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/copy"
       },
       {
         "when": "Before your Advisor Coaching #2 (Nov 5 or 6)",
@@ -663,7 +672,7 @@
         "todo": "Present to the PAV team: about 3 minutes on your one slide (your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team), then about 7 minutes of Q&A."
       }
     ],
-    "resources": "All workshop files (both decks, Lumi plan, template, discussion guide) are in the shared folder: https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing . Recordings: Workshop 1 and Workshop 2 links are in each workshop's details.",
+    "resources": "All workshop files (both decks, Lumi plan, template, discussion guide) are in the shared folder: https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing . Recordings: Workshop 1 and Workshop 2 links are in each workshop's details. Presentation slide template (make a copy, don't edit the original): https://docs.google.com/presentation/d/1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/copy",
     "note": "Eman's email listed his address as emmchan@rei.com by mistake. The correct address is emchan@rei.com."
   }
 }

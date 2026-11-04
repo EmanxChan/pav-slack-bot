@@ -454,16 +454,6 @@
       ]
     },
     {
-      "question": "When is the presentation template coming?",
-      "mustIncludeAny": [
-        [
-          "Nov 4",
-          "November 4",
-          "Wednesday"
-        ]
-      ]
-    },
-    {
       "question": "What do I need to do this week?",
       "asker": "Peter Lee",
       "mustIncludeAny": [
@@ -492,6 +482,27 @@
       ],
       "mustNotInclude": [
         "emmchan@rei.com"
+      ]
+    },
+    {
+      "question": "Where is the presentation slide template?",
+      "mustIncludeAny": [
+        [
+          "1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/copy"
+        ],
+        [
+          "copy"
+        ]
+      ]
+    },
+    {
+      "question": "Can I just edit the slide template directly?",
+      "mustIncludeAny": [
+        [
+          "make a copy",
+          "make your own copy",
+          "your own copy"
+        ]
       ]
     }
   ]
