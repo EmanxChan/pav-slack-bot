@@ -334,12 +334,7 @@
         "followUps": "The program includes 6-month and 1-year check-ins with your advisor next year. The PAV team will reach out to set those up."
       },
       "nextSteps": [
-        "Wednesday, Nov 4: draft your Page 1 measurements and Page 2 (2027 tactics and resources).",
-        "Thursday to Friday, Nov 5 to 6: Advisor Coaching #2. Come with both pages drafted, even if rough: all five initiative areas, priorities, measurements, tactics and resources. It makes the session much more useful.",
-        "Optional: extra peer session on Friday, Nov 6 (10 to 11 AM, 11 AM to 12 PM, or 12 to 1 PM PT). Sign up on the \"Peer Group\" tab: https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=981200043#gid=981200043",
-        "Wednesday, Nov 4: the PAV team shares the presentation slide template (PowerPoint) by email and Slack.",
-        "Monday, Nov 9 by 5pm PT: send Eman your final Pages 1 and 2 (the spreadsheet) and your one presentation slide.",
-        "Tuesday, Nov 10, 12 to 2 PM PT: present to the PAV team."
+        "See \"finishingTheIntensive\" for the full, dated to-do list."
       ]
     },
     {
@@ -634,5 +629,41 @@
       }
     ]
   },
-  "communication": "Email is the main channel for program updates. Use the private Slack channel for quick questions (for example, a broken link), and to message fellow founders, Mina, Mona or Eman."
+  "communication": "Email is the main channel for program updates. Use the private Slack channel for quick questions (for example, a broken link), and to message fellow founders, Mina, Mona or Eman.",
+  "finishingTheIntensive": {
+    "source": "The official to-do list for the rest of the Intensive, combining the Workshop 2 next steps and Eman's Nov 3 follow-up email. Use this first when someone asks what to do next.",
+    "checklist": [
+      {
+        "when": "Wednesday, Nov 4",
+        "todo": "Draft your Page 1 measurements and Page 2 (2027 tactics and resources) in the strategic plan template.",
+        "also": "The PAV team shares the PowerPoint slide template by email and Slack."
+      },
+      {
+        "when": "Before your Advisor Coaching #2 (Nov 5 or 6)",
+        "todo": "Have both Page 1 and Page 2 prepared, even if rough: all five strategic initiative areas, essential priorities, measurements, tactics and resources. Your coaching time is on the sign-up sheet (Pavey can tell you yours)."
+      },
+      {
+        "when": "Thursday to Friday, Nov 5 to 6",
+        "todo": "Advisor Coaching #2 with your core advisor: finalize Page 1 and review your Page 2 draft, and prepare for the presentation."
+      },
+      {
+        "when": "Friday, Nov 6 (optional)",
+        "todo": "Extra peer session at 10 to 11 AM, 11 AM to 12 PM, or 12 to 1 PM PT. Interested? Put your name next to a slot in blue on the \"Peer Group\" tab: https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=981200043#gid=981200043 . Eman sends calendar invites. Pick a slot that doesn't overlap your coaching time. Eman named MeatShredz, Urban Native Era, Parapack, Tuyyo, CLIP, MONKEYHANDS, COBA and Swift Running as interested, but everyone is welcome."
+      },
+      {
+        "when": "By end of the week",
+        "todo": "Watch for the run of show with the order of presentations from the PAV team."
+      },
+      {
+        "when": "Monday, Nov 9 by 5pm PT (deadline)",
+        "todo": "Send Eman (emchan@rei.com) your final strategic plan (Pages 1 and 2 of the spreadsheet) and your presentation slide."
+      },
+      {
+        "when": "Tuesday, Nov 10, 12 to 2 PM PT",
+        "todo": "Present to the PAV team: about 3 minutes on your one slide (your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team), then about 7 minutes of Q&A."
+      }
+    ],
+    "resources": "All workshop files (both decks, Lumi plan, template, discussion guide) are in the shared folder: https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing . Recordings: Workshop 1 and Workshop 2 links are in each workshop's details.",
+    "note": "Eman's email listed his address as emmchan@rei.com by mistake. The correct address is emchan@rei.com."
+  }
 }

@@ -462,6 +462,37 @@
           "Wednesday"
         ]
       ]
+    },
+    {
+      "question": "What do I need to do this week?",
+      "asker": "Peter Lee",
+      "mustIncludeAny": [
+        [
+          "Page 2",
+          "page two"
+        ],
+        [
+          "5pm",
+          "5 pm",
+          "5:00"
+        ],
+        [
+          "Nov 5",
+          "November 5",
+          "Thursday"
+        ]
+      ]
+    },
+    {
+      "question": "What's Eman's email? I want to send my plan.",
+      "mustIncludeAny": [
+        [
+          "emchan@rei.com"
+        ]
+      ],
+      "mustNotInclude": [
+        "emmchan@rei.com"
+      ]
     }
   ]
 }
