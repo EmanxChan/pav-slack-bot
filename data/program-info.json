@@ -281,7 +281,62 @@
       "meetingId": "292 101 173 810 565 1",
       "passcode": "VN3Ay3ij",
       "bringWith": "A polished draft of Page 1 (minus measurements), ready to share with the group.",
-      "covers": "Measurements and dashboards, then Page 2: tactics and resources for 2027."
+      "covers": "Measurements and dashboards, then Page 2: tactics and resources for 2027.",
+      "files": {
+        "deck": "https://drive.google.com/file/d/19y634AMymgxLn2jVo6e8cN05JZQlfmri/view?usp=sharing",
+        "folder": "https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing",
+        "note": "The Workshop 2 deck (PDF) is in the same shared folder as the Workshop 1 files."
+      },
+      "recording": {
+        "status": "Coming soon. The PAV team will share the link.",
+        "link": null
+      },
+      "recap": {
+        "source": "Summary of Workshop 2 on Tuesday, Nov 3 (from the deck and transcript). Covers what Mina and Mona taught and next steps, not what individual founders shared in the live cases.",
+        "pageOneTips": [
+          "Label each Strategic Initiative with the strategic area it addresses (Sales/Channels, Brand/Marketing, Operations/Org, Product, Financial). It clarifies your thinking and helps readers.",
+          "Keep initiatives in priority order, most important first. The order carries meaning.",
+          "An Essential Priority is what must be true or accomplished for an initiative to succeed. It is an outcome, not a task, and it can be measured. Example: priority = 'maximize retail sell-through'; tactic (Page 2) = 'train sales reps and create retailer-support materials'."
+        ],
+        "measurements": {
+          "what": "How you know a strategic initiative is succeeding. Think of them as mini goals for each priority: quantitative whenever possible, time-bound, and set as targets for the end of the plan (2029).",
+          "tips": [
+            "Pick the few measures that reflect your priorities. Include both performance metrics (results, like revenue, sell-through, conversion) and milestone metrics (capabilities built, like an ERP launch date or a key hire).",
+            "Example categories: Sales & Distribution (revenue growth, doors, sales per door, reorders); Marketing & Customers (traffic, conversion, ROAS, acquisition cost, repeat purchases); Products & Innovation (% sales from new products, launches, patents); Financial Health (gross margin, profit, cash, runway); Operations (inventory turns, stockouts, on-time delivery); People (key hires, retention, partnerships).",
+            "Keep tracking simple: build simple shared reporting with an owner for each measure, review most measures monthly (some quarterly) with your team, and adjust. A simple consistent review beats a complicated dashboard. Measure, learn, decide, act."
+          ],
+          "lumiExample": "Lumi sales measurements included: 5,000 new doors over three years, 500,000 units sold, DTC targets (1MM site visitors, 2.5% conversion, $75 average order, more than 4x ROAS, 20K new customers), and a revenue mix of 65% US wholesale, 30% US DTC and 5% international."
+        },
+        "tacticsAndResources": {
+          "pageTwo": "Page 2 is the one-year view for 2027. Page 1 is the three-year view (2027 to 2029).",
+          "tactics": "Actions that move you toward your measurements, achievable within calendar year 2027. Give every tactic an owner for accountability. There are many ways to reach the same result; choose what fits your skills, resources and situation. Each year you add a new sheet with that year's tactics.",
+          "tacticExamples": [
+            "Hire sales rep groups in East and West coast territories",
+            "Launch a digital ad campaign targeting a specific audience",
+            "Interview 3 branding agencies by August and hire one by September 15",
+            "Create an inventory forecasting model",
+            "Evaluate and launch a new ERP",
+            "Build a process for vetting brand collab partners and contact 5 brands each quarter"
+          ],
+          "resources": "What you need to deliver the tactics. Financial: 2027 revenue, profit and year-end cash, plus any fundraising (amount, timing, equity, loans, line of credit). Infrastructure and process: equipment, manufacturing, warehouse and distribution, website and social, software, dashboards, roles and responsibilities. Team: founder and team capacity, skills to build or bring in, new hires or role changes, contractors, agencies, advisors."
+        },
+        "tacticsClinic": "A repeatable way to work through any priority: share the priority, its measurement and what you have tried (3 minutes); the group compares possible tactics and what each would need (10 minutes); then choose 1 to 2 tactics with the resources, an owner and a first step (2 minutes).",
+        "usingYourPlan": [
+          "Make the hard choices now. What are you saying 'no' to?",
+          "Engage your team, be as specific as possible, and pick the approaches that fit your company.",
+          "Use the plan, don't shelve it. Check progress on tactics monthly or quarterly.",
+          "Every six months, do a reality check of the full three-year plan with your team: did you get the resources you needed, and has anything changed in your products, team, finances, market or life?"
+        ],
+        "dashboard": "Shawn, a Path Ahead founder, demoed the REI Dashboard: a one-page view of cash, ad payback, inventory and sales by channel, rebuilt from your own data exports (Shopify, ad accounts, Amazon, bank) and run in your own Claude account with Claude Code (a paid Claude plan is needed). It is read-only and keeps your data on your computer. It will be shared after REI Legal approves it, with dummy data to try first and safety tips. Questions and feature requests go in the strategic plan thread in Slack. Tip: set it up to track the measurements from your strategic plan first.",
+        "followUps": "The program includes 6-month and 1-year check-ins with your advisor next year. The PAV team will reach out to set those up."
+      },
+      "nextSteps": [
+        "Wednesday, Nov 4: draft your Page 1 measurements and Page 2 (2027 tactics and resources).",
+        "Thursday to Friday, Nov 5 to 6: Advisor Coaching #2. Come with both pages drafted, even if rough: all five initiative areas, priorities, measurements, tactics and resources. It makes the session much more useful.",
+        "Optional: an extra peer session late this week for founders who want one (groups may be mixed). Reply yes or no in Slack.",
+        "Monday, Nov 9 by 5pm PT: send Eman your final Pages 1 and 2 (the spreadsheet) and your one presentation slide.",
+        "Tuesday, Nov 10, 12 to 2 PM PT: present to the PAV team."
+      ]
     },
     {
       "date": "Wednesday, November 4",
@@ -305,7 +360,8 @@
         "To change or reschedule, or if none of the slots work, email Eman (emchan@rei.com) and your paired advisor for alternative times."
       ],
       "whereItHappens": "In your paired advisor's personal Zoom room. Mina: https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09 . Mona: https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1 . You'll also get a calendar invite once you book.",
-      "openSlots": "See the sign-up sheet for open times. Slots are first come, first served, so the sheet is always the most current."
+      "openSlots": "See the sign-up sheet for open times. Slots are first come, first served, so the sheet is always the most current.",
+      "prepare": "Come with both pages drafted, even if rough: all five strategic initiative areas, essential priorities, measurements, and Page 2 tactics and resources. The more complete your draft, the more useful the session."
     },
     {
       "date": "Tuesday, November 10",
@@ -317,9 +373,13 @@
       "joinLink": "https://teams.microsoft.com/meet/2821687866507030?p=mvxFXQDhY2Js9cpGwT",
       "meetingId": "282 168 786 650 703 0",
       "passcode": "CZ38Pr94",
-      "submission": "Send your slides and two-page plan directly to Eman (<@U0C6J5X39NU>) by 5pm PT on Monday, November 9, the day before the presentation.",
-      "format": "Each founder gives a 10-minute presentation.",
-      "audience": "The Path Ahead Ventures team, including Keenan, Eman and Elizabeth. A chance to practice presenting, get input, and get visibility with REI."
+      "submission": "Send your slides and two-page plan (Pages 1 and 2 of the spreadsheet) directly to Eman (<@U0C6J5X39NU>) by 5pm PT on Monday, November 9.",
+      "format": "Each founder gets a 10-minute slot: about 3 minutes presenting your high-level plan (your goals and your strategic initiatives), plus one ask of the Path Ahead team, then about 7 minutes of Q&A.",
+      "audience": "The Path Ahead Ventures team, including Keenan Corrigan (Director of Path Ahead Ventures) and Eman, plus Mina and Mona.",
+      "slide": "Prepare one slide. Mina will send a starter template. Example layout: your 2029 goals (revenue, profit, year-end cash, plus one other such as product lines), your strategic initiatives across the five areas, and your one ask. Send the slide to Eman with your plan by 5pm PT Monday, Nov 9.",
+      "theAsk": "One realistic, doable ask of the Path Ahead team that would help you achieve your plan. For example: introductions to founders who have sold into convenience stores, or someone to explain how the REI buying calendar works.",
+      "tone": "Low pressure and low risk, with no strings attached. It's a chance for the PAV team to get to know you and your plan.",
+      "signUp": "Eman will share a way to sign up for your 10-minute slot. Watching other founders present is encouraged but optional."
     }
   ],
   "postCourse": [
@@ -354,7 +414,8 @@
       "workshop1Folder": "https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing",
       "workshop1Deck": "https://drive.google.com/file/d/1UpJ40wdpcVsULaXdZsROsVbq7R7wXvEL/view?usp=sharing",
       "lumiStrategicPlan": "https://drive.google.com/file/d/1teY5qieOeohvb2v6Qzaf2iUYln5qQWBt/view?usp=sharing",
-      "peerSessionDiscussionGuide": "https://drive.google.com/file/d/1UYqusw5_AhDlhR31PkwF-rV1rt3SWifB/view"
+      "peerSessionDiscussionGuide": "https://drive.google.com/file/d/1UYqusw5_AhDlhR31PkwF-rV1rt3SWifB/view",
+      "workshop2Deck": "https://drive.google.com/file/d/19y634AMymgxLn2jVo6e8cN05JZQlfmri/view?usp=sharing"
     },
     "spreadsheets": {
       "advisorCoachingSignup": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0",
@@ -396,7 +457,8 @@
         "Mina": "U05SPV4SQ1E",
         "Mona": "U05BCQL6PEG"
       }
-    }
+    },
+    "Founders": "Founders can keep in touch by DMing each other in Slack. Eman is recirculating everyone's email addresses."
   },
   "aboutPAV": {
     "summary": "Path Ahead Ventures (PAV) is REI Co-op's founder-forward organization and venture capital fund for founders of color in the outdoor industry. It works with U.S.-based startups owned and led by Black, Indigenous, Latina/o/x, and Asian American and Pacific Islander founders whose companies inspire and equip people in their outdoor lives. Founders of color represent an estimated 1% of outdoor entrepreneurs, and PAV's goal is to accelerate their success, whether they are just starting out or growing an established business.",

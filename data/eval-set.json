@@ -368,6 +368,60 @@
           "U05SPV4SQ1E"
         ]
       ]
+    },
+    {
+      "question": "How does the presentation on Nov 10 work?",
+      "mustIncludeAny": [
+        [
+          "10 minute",
+          "10-minute",
+          "10 min"
+        ],
+        [
+          "ask"
+        ],
+        [
+          "Q&A",
+          "questions"
+        ]
+      ]
+    },
+    {
+      "question": "What is a tactic vs an essential priority?",
+      "mustIncludeAny": [
+        [
+          "owner",
+          "outcome",
+          "not a task",
+          "2027"
+        ]
+      ]
+    },
+    {
+      "question": "Where is the Workshop 2 deck?",
+      "mustIncludeAny": [
+        [
+          "19y634AMymgxLn2jVo6e8cN05JZQlfmri"
+        ]
+      ]
+    },
+    {
+      "question": "When will we get the dashboard?",
+      "mustIncludeAny": [
+        [
+          "legal"
+        ]
+      ]
+    },
+    {
+      "question": "What should I bring to my second coaching session?",
+      "mustIncludeAny": [
+        [
+          "Page 2",
+          "page two",
+          "both pages"
+        ]
+      ]
     }
   ]
 }
