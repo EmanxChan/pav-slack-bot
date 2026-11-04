@@ -288,8 +288,11 @@
         "note": "The Workshop 2 deck (PDF) is in the same shared folder as the Workshop 1 files."
       },
       "recording": {
-        "status": "Coming soon. The PAV team will share the link.",
-        "link": null
+        "status": "Available",
+        "link": "https://pathaheadventures.slack.com/files/U0C6J5X39NU/F0CESBD3NKT/_virtual__workshop_2_-_execution_and_measurement_pav_strategic_planning_sprint-20261103_120234-meeting_recording.mp4",
+        "where": "Shared in Slack. Open the link while signed in to the program Slack workspace.",
+        "length": "About 2 hours 30 minutes",
+        "note": "If the link does not open, email Eman (emchan@rei.com) or DM him on Slack."
       },
       "recap": {
         "source": "Summary of Workshop 2 on Tuesday, Nov 3 (from the deck and transcript). Covers what Mina and Mona taught and next steps, not what individual founders shared in the live cases.",
@@ -478,7 +481,7 @@
     "note": "For questions about other PAV programs, eligibility, or investment, point founders to the website or the PAV team rather than making promises."
   },
   "faq": {
-    "Are workshops recorded?": "Yes. The Workshop 1 recording is available (link in the Workshop 1 details). Recordings for later sessions will be shared once they are ready. Pavey can also recap what was covered.",
+    "Are workshops recorded?": "Yes. Recordings for Workshop 1 and Workshop 2 are available (links in each workshop's details). Pavey can also recap what was covered.",
     "What if I miss a session?": "Ask Pavey for a recap, watch the recording once it is shared, and email Eman (emchan@rei.com) or DM him on Slack to let him know you missed it.",
     "What if I am running late on homework or the final plan?": "Email Eman (emchan@rei.com) or DM him on Slack as soon as you can. Pavey cannot grant extensions.",
     "I had trouble joining breakout rooms in Teams.": "Breakout rooms didn't work for some people who joined while signed into a personal or free Microsoft Teams account. If that happens, sign out and join as a guest (for example from your web browser)."

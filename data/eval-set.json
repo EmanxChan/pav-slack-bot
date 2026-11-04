@@ -422,6 +422,14 @@
           "both pages"
         ]
       ]
+    },
+    {
+      "question": "Where is the Workshop 2 recording?",
+      "mustIncludeAny": [
+        [
+          "F0CESBD3NKT"
+        ]
+      ]
     }
   ]
 }
