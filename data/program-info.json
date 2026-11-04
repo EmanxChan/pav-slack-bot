@@ -336,7 +336,8 @@
       "nextSteps": [
         "Wednesday, Nov 4: draft your Page 1 measurements and Page 2 (2027 tactics and resources).",
         "Thursday to Friday, Nov 5 to 6: Advisor Coaching #2. Come with both pages drafted, even if rough: all five initiative areas, priorities, measurements, tactics and resources. It makes the session much more useful.",
-        "Optional: an extra peer session late this week for founders who want one (groups may be mixed). Reply yes or no in Slack.",
+        "Optional: extra peer session on Friday, Nov 6 (10 to 11 AM, 11 AM to 12 PM, or 12 to 1 PM PT). Sign up on the \"Peer Group\" tab: https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=981200043#gid=981200043",
+        "Wednesday, Nov 4: the PAV team shares the presentation slide template (PowerPoint) by email and Slack.",
         "Monday, Nov 9 by 5pm PT: send Eman your final Pages 1 and 2 (the spreadsheet) and your one presentation slide.",
         "Tuesday, Nov 10, 12 to 2 PM PT: present to the PAV team."
       ]
@@ -350,7 +351,7 @@
       "date": "Thursday, November 5 - Friday, November 6",
       "activity": "Advisor Coaching #2",
       "details": "Final meeting with your core advisor to finalize Page 1 and review your Page 2 draft, and prepare for the PAV presentation.",
-      "signUpSheet": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0",
+      "signUpSheet": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?usp=sharing",
       "minaSchedule": {
         "zoom": "https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09"
       },
@@ -364,7 +365,34 @@
       ],
       "whereItHappens": "In your paired advisor's personal Zoom room. Mina: https://us06web.zoom.us/j/9623863378?pwd=K2ZLclJaT0Z1d0ROaGRQQ0VTbkJ4QT09 . Mona: https://us06web.zoom.us/j/6626166018?pwd=GcJiB5g7vlmbJJfnIhaJIl9QFXx5In.1 . You'll also get a calendar invite once you book.",
       "openSlots": "See the sign-up sheet for open times. Slots are first come, first served, so the sheet is always the most current.",
-      "prepare": "Come with both pages drafted, even if rough: all five strategic initiative areas, essential priorities, measurements, and Page 2 tactics and resources. The more complete your draft, the more useful the session."
+      "prepare": "Come with both pages drafted, even if rough: all five strategic initiative areas, essential priorities, measurements, and Page 2 tactics and resources. The more complete your draft, the more useful the session.",
+      "bookedTimes": {
+        "note": "Booked Advisor Coaching #2 sessions from the sign-up sheet. Sessions are in the advisor's Zoom room, with a calendar invite from Eman. To change a time, email Eman and your advisor.",
+        "Mina": {
+          "Tuyyo Foods": "Thursday, Nov 5, 9 to 10 AM PT",
+          "Urban Native Era": "Thursday, Nov 5, 10 to 11 AM PT",
+          "CLIP": "Thursday, Nov 5, 1 to 2 PM PT",
+          "Parapack.co": "Friday, Nov 6, 10 to 11 AM PT",
+          "Wow Foods (Meat Shredz)": "Friday, Nov 6, 1 to 2 PM PT"
+        },
+        "Mona": {
+          "COBA": "Thursday, Nov 5, 12 to 1 PM PT",
+          "Pao Labs": "Thursday, Nov 5, 1 to 2 PM PT",
+          "PIONEERS Apparel Inc dba PYNR": "Friday, Nov 6, 10 to 11 AM PT",
+          "MONKEYHANDS": "Friday, Nov 6, 11 AM to 12 PM PT",
+          "Campfire Coffee": "Friday, Nov 6, 1 to 2 PM PT",
+          "Swift Running": "Friday, Nov 6, 2 to 2:45 PM PT"
+        }
+      }
+    },
+    {
+      "date": "Friday, November 6",
+      "activity": "Optional Peer Session",
+      "time": "Three time slots: 10 to 11 AM, 11 AM to 12 PM, and 12 to 1 PM PT",
+      "details": "An optional extra peer session to get feedback on your plan before you submit it. Open to anyone interested. Groups may mix founders from different peer groups.",
+      "signUp": "Sign up on the \"Peer Group\" tab of the sign-up sheet: put your name next to a time slot in blue (up to 3 founders per slot): https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=981200043#gid=981200043",
+      "invites": "Eman will send calendar invites with the meeting details once people sign up.",
+      "tip": "Pick a slot that doesn't overlap with your Advisor Coaching #2 time."
     },
     {
       "date": "Tuesday, November 10",
@@ -379,10 +407,10 @@
       "submission": "Send your slides and two-page plan (Pages 1 and 2 of the spreadsheet) directly to Eman (<@U0C6J5X39NU>) by 5pm PT on Monday, November 9.",
       "format": "Each founder gets a 10-minute slot: about 3 minutes presenting your high-level plan (your goals and your strategic initiatives), plus one ask of the Path Ahead team, then about 7 minutes of Q&A.",
       "audience": "The Path Ahead Ventures team, including Keenan Corrigan (Director of Path Ahead Ventures) and Eman, plus Mina and Mona.",
-      "slide": "Prepare one slide. Mina will send a starter template. Example layout: your 2029 goals (revenue, profit, year-end cash, plus one other such as product lines), your strategic initiatives across the five areas, and your one ask. Send the slide to Eman with your plan by 5pm PT Monday, Nov 9.",
+      "slide": "Prepare one slide covering your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team that would help you achieve your plan. The PAV team is sharing a PowerPoint template on Wednesday, Nov 4, by email and Slack. Send your slide and your final Pages 1 and 2 to Eman by 5pm PT Monday, Nov 9.",
       "theAsk": "One realistic, doable ask of the Path Ahead team that would help you achieve your plan. For example: introductions to founders who have sold into convenience stores, or someone to explain how the REI buying calendar works.",
       "tone": "Low pressure and low risk, with no strings attached. It's a chance for the PAV team to get to know you and your plan.",
-      "signUp": "Eman will share a way to sign up for your 10-minute slot. Watching other founders present is encouraged but optional."
+      "signUp": "No sign-up needed. The PAV team is putting together a run of show and will share the order of presentations by the end of the week. Watching other founders present is encouraged but optional."
     }
   ],
   "postCourse": [
@@ -422,7 +450,8 @@
     },
     "spreadsheets": {
       "advisorCoachingSignup": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0",
-      "strategicPlanTemplate": "https://docs.google.com/spreadsheets/d/1ixpRaK_4s4afszZvS-U6hu2FqE54kFrR8aEhxMk4Hng/edit?usp=sharing"
+      "strategicPlanTemplate": "https://docs.google.com/spreadsheets/d/1ixpRaK_4s4afszZvS-U6hu2FqE54kFrR8aEhxMk4Hng/edit?usp=sharing",
+      "optionalPeerSessionSignUp": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=981200043#gid=981200043"
     }
   },
   "zoomLinks": {
@@ -552,7 +581,8 @@
         "company": "MONKEYHANDS",
         "website": "monkeyhands.eu",
         "founders": [
-          "Vicente Dominguez"
+          "Vicente Dominguez",
+          "Daniele De Paolis"
         ],
         "pairedAdvisor": "Mona West",
         "alsoKnownAs": [

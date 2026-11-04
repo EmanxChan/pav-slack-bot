@@ -430,6 +430,38 @@
           "F0CESBD3NKT"
         ]
       ]
+    },
+    {
+      "question": "How do I sign up for the extra peer session?",
+      "mustIncludeAny": [
+        [
+          "981200043"
+        ]
+      ]
+    },
+    {
+      "question": "When is my second coaching session?",
+      "asker": "Peter Lee",
+      "mustIncludeAny": [
+        [
+          "Nov 5",
+          "November 5",
+          "Thursday"
+        ]
+      ],
+      "mustNotInclude": [
+        "Friday, Nov 6, 2"
+      ]
+    },
+    {
+      "question": "When is the presentation template coming?",
+      "mustIncludeAny": [
+        [
+          "Nov 4",
+          "November 4",
+          "Wednesday"
+        ]
+      ]
     }
   ]
 }
