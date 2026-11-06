@@ -491,7 +491,7 @@
   ],
   "postCourse": [
     "Dashboard template leave-behind",
-    "Follow-up satisfaction survey",
+    "Final feedback survey (shared in the Slack channel at 5pm PT on Nov 10, about 5 to 7 minutes): https://docs.google.com/forms/d/1WfqXPlL9-i8XCF7yZ9iivxxsA1ibSVOdt9NGh_OnTk8/viewform",
     "Check-in meeting with advisor after 6-12 months"
   ],
   "workshopLeads": {
@@ -755,5 +755,23 @@
     ],
     "resources": "All workshop files (both decks, Lumi plan, template, discussion guide) are in the shared folder: https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing . Recordings: Workshop 1 and Workshop 2 links are in each workshop's details. Presentation slide template (make a copy, don't edit the original): https://docs.google.com/presentation/d/1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/copy",
     "note": "Eman's email listed his address as emmchan@rei.com by mistake. The correct address is emchan@rei.com."
-  }
+  },
+  "announcements": [
+    {
+      "id": "final-survey",
+      "name": "Final survey",
+      "postAt": {
+        "year": 2026,
+        "month": 11,
+        "day": 10,
+        "hour": 17,
+        "minute": 0
+      },
+      "text": "🎉 *That’s a wrap on the Strategic Planning Intensive!*\nThank you all for presenting today. It was inspiring to hear your plans for 2027 and beyond.\n\n📝 *One last ask:* please take our final feedback survey. It takes about 5 to 7 minutes, and your honest feedback shapes the next cohort.\n👉 <https://docs.google.com/forms/d/1WfqXPlL9-i8XCF7yZ9iivxxsA1ibSVOdt9NGh_OnTk8/viewform|Take the survey>\n\nQuestions? DM Pavey or email Eman at emchan@rei.com. 🧡",
+      "button": {
+        "label": "📝 Take the survey",
+        "url": "https://docs.google.com/forms/d/1WfqXPlL9-i8XCF7yZ9iivxxsA1ibSVOdt9NGh_OnTk8/viewform"
+      }
+    }
+  ]
 }
