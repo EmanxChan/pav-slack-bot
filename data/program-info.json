@@ -393,7 +393,7 @@
       "date": "Tuesday, November 10",
       "time": "12pm - 2pm PT",
       "activity": "Presentation to PAV",
-      "details": "Present page 1 of your strategic plan to Keenan, Eman, and Elizabeth, and turn in your full plan (pages 1 and 2)",
+      "details": "Present your one slide to the PAV team, and turn in your full plan (pages 1 and 2) beforehand",
       "dueDate": "Slides and two-page plan due to Eman by 5pm PT, Monday, November 9",
       "platform": "Microsoft Teams",
       "joinLink": "https://teams.microsoft.com/meet/2821687866507030?p=mvxFXQDhY2Js9cpGwT",
@@ -401,11 +401,92 @@
       "passcode": "CZ38Pr94",
       "submission": "Send your slides and two-page plan (Pages 1 and 2 of the spreadsheet) directly to Eman (<@U0C6J5X39NU>) by 5pm PT on Monday, November 9.",
       "format": "Each founder gets a 10-minute slot: about 3 minutes presenting your high-level plan (your goals and your strategic initiatives), plus one ask of the Path Ahead team, then about 7 minutes of Q&A.",
-      "audience": "The Path Ahead Ventures team, including Keenan Corrigan (Director of Path Ahead Ventures) and Eman, plus Mina and Mona.",
+      "audience": "The Path Ahead Ventures team: Susan, Keenan Corrigan (Director of Path Ahead Ventures), Elizabeth, Nicole and Eman.",
       "slide": "Prepare one slide covering your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team. Use the slide template (Google Slides). Make your own copy first with this link: https://docs.google.com/presentation/d/1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/copy . Please do not edit the original template directly. One page only; you can change the look as long as all the content is there. Send your slide and your final Pages 1 and 2 to Eman by 5pm PT Monday, Nov 9.",
       "theAsk": "One realistic, doable ask of the Path Ahead team that would help you achieve your plan. For example: introductions to founders who have sold into convenience stores, or someone to explain how the REI buying calendar works.",
       "tone": "Low pressure and low risk, with no strings attached. It's a chance for the PAV team to get to know you and your plan.",
-      "signUp": "No sign-up needed. The PAV team is putting together a run of show and will share the order of presentations by the end of the week. Watching other founders present is encouraged but optional."
+      "signUp": "No sign-up needed. The order of presentations is set (see runOfShow). Join a few minutes before your slot. Watching other founders present is encouraged but optional.",
+      "runOfShow": {
+        "note": "Order of presentations for Tuesday, Nov 10 (all times PT). Each founder slot is 10 minutes: about 3 minutes presenting and 7 minutes of Q&A. Share the order freely, but do not share or link the planning spreadsheet. If a founder needs to swap slots, they should email Eman at emchan@rei.com.",
+        "slots": [
+          {
+            "time": "12:00 to 12:05 PM",
+            "company": "Welcome",
+            "presenting": "Eman"
+          },
+          {
+            "time": "12:05 to 12:15 PM",
+            "slot": 1,
+            "company": "Pao Labs",
+            "presenting": "Celena Chan, Zack Yu"
+          },
+          {
+            "time": "12:15 to 12:25 PM",
+            "slot": 2,
+            "company": "CLIP",
+            "presenting": "Som Ray"
+          },
+          {
+            "time": "12:25 to 12:35 PM",
+            "slot": 3,
+            "company": "MONKEYHANDS",
+            "presenting": "Daniele De Paolis"
+          },
+          {
+            "time": "12:35 to 12:45 PM",
+            "slot": 4,
+            "company": "Parapack.co",
+            "presenting": "Ian Hughes"
+          },
+          {
+            "time": "12:45 to 12:55 PM",
+            "slot": 5,
+            "company": "COBA",
+            "presenting": "Peter Lee"
+          },
+          {
+            "time": "12:55 to 1:05 PM",
+            "slot": 6,
+            "company": "PYNR (PIONEERS Apparel)",
+            "presenting": "Sidney Baptista"
+          },
+          {
+            "time": "1:05 to 1:15 PM",
+            "slot": 7,
+            "company": "Urban Native Era",
+            "presenting": "Joey Montoya"
+          },
+          {
+            "time": "1:15 to 1:25 PM",
+            "slot": 8,
+            "company": "Swift Running",
+            "presenting": "Pooja Bansal"
+          },
+          {
+            "time": "1:25 to 1:35 PM",
+            "slot": 9,
+            "company": "Meat Shredz (Wow Foods)",
+            "presenting": "Steve Song"
+          },
+          {
+            "time": "1:35 to 1:45 PM",
+            "slot": 10,
+            "company": "Tuyyo Foods",
+            "presenting": "Stefanie Garcia Turner, Regina Trillo"
+          },
+          {
+            "time": "1:45 to 1:55 PM",
+            "slot": 11,
+            "company": "Campfire Coffee",
+            "presenting": "Quincy Henry, Whitni Henry"
+          },
+          {
+            "time": "1:55 to 2:00 PM",
+            "company": "Wrap-up and thank you",
+            "presenting": "Eman"
+          }
+        ]
+      }
     }
   ],
   "postCourse": [
@@ -661,7 +742,7 @@
       },
       {
         "when": "By end of the week",
-        "todo": "Watch for the run of show with the order of presentations from the PAV team."
+        "todo": "The order of presentations is out. Pavey can tell you your Nov 10 time slot."
       },
       {
         "when": "Monday, Nov 9 by 5pm PT (deadline)",

@@ -12,7 +12,8 @@
     "3CM3YY23",
     "153OXL1B-o-Eqs_DJ4uA0_3zi8pPrPd9T",
     "roolsystem.com",
-    "HercLeon"
+    "HercLeon",
+    "1U_OFrPbX__YlMNVXbPdCVpFA_jIZoOOEp-FaINg8Ttw"
   ],
   "tests": [
     {
@@ -503,6 +504,32 @@
           "make your own copy",
           "your own copy"
         ]
+      ]
+    },
+    {
+      "question": "When do I present on Nov 10?",
+      "asker": "Peter Lee",
+      "mustIncludeAny": [
+        [
+          "12:45"
+        ]
+      ],
+      "mustNotInclude": [
+        "1U_OFrPbX__YlMNVXbPdCVpFA_jIZoOOEp-FaINg8Ttw"
+      ]
+    },
+    {
+      "question": "What's the order of presentations?",
+      "mustIncludeAny": [
+        [
+          "Pao Labs"
+        ],
+        [
+          "Campfire"
+        ]
+      ],
+      "mustNotInclude": [
+        "1U_OFrPbX__YlMNVXbPdCVpFA_jIZoOOEp-FaINg8Ttw"
       ]
     }
   ]
