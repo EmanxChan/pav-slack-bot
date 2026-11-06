@@ -537,6 +537,12 @@
       "advisorCoachingSignup": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=0#gid=0",
       "strategicPlanTemplate": "https://docs.google.com/spreadsheets/d/1ixpRaK_4s4afszZvS-U6hu2FqE54kFrR8aEhxMk4Hng/edit?usp=sharing",
       "optionalPeerSessionSignUp": "https://docs.google.com/spreadsheets/d/10fHyVvR0LqC5oeYX7nGAeZzXVNkMjcIVFeH5fndFfPQ/edit?gid=981200043#gid=981200043"
+    },
+    "finalSurvey": {
+      "name": "Strategic Planning Intensive: Final Survey (Google Form)",
+      "link": "https://docs.google.com/forms/d/1WfqXPlL9-i8XCF7yZ9iivxxsA1ibSVOdt9NGh_OnTk8/viewform",
+      "about": "The end-of-program feedback survey. About 5 to 7 minutes: a recommend score, overall satisfaction, ratings for each part of the program (pre-work, both workshops, both advisor coaching sessions, the peer session, the Nov 10 presentation and Pavey), questions on the workshops and advisor time, and a few short open answers. Company name is optional.",
+      "when": "Posted in the Slack channel at 5pm PT on Tuesday, Nov 10, right after the presentations. Founders can fill it out any time once they have the link. Questions go to Eman at emchan@rei.com."
     }
   },
   "zoomLinks": {
@@ -750,7 +756,8 @@
       },
       {
         "when": "Tuesday, Nov 10, 12 to 2 PM PT",
-        "todo": "Present to the PAV team: about 3 minutes on your one slide (your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team), then about 7 minutes of Q&A."
+        "todo": "Present to the PAV team: about 3 minutes on your one slide (your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team), then about 7 minutes of Q&A.",
+        "after": "After presenting, fill out the final feedback survey (about 5 to 7 minutes): https://docs.google.com/forms/d/1WfqXPlL9-i8XCF7yZ9iivxxsA1ibSVOdt9NGh_OnTk8/viewform"
       }
     ],
     "resources": "All workshop files (both decks, Lumi plan, template, discussion guide) are in the shared folder: https://drive.google.com/drive/folders/1VWN-DyI11zQjZMFNISgTdzIciV2uW3NB?usp=sharing . Recordings: Workshop 1 and Workshop 2 links are in each workshop's details. Presentation slide template (make a copy, don't edit the original): https://docs.google.com/presentation/d/1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/copy",

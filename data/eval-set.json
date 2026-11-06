@@ -531,6 +531,17 @@
       "mustNotInclude": [
         "1U_OFrPbX__YlMNVXbPdCVpFA_jIZoOOEp-FaINg8Ttw"
       ]
+    },
+    {
+      "question": "Where's the final survey for the Intensive?",
+      "mustIncludeAny": [
+        [
+          "1WfqXPlL9-i8XCF7yZ9iivxxsA1ibSVOdt9NGh_OnTk8"
+        ]
+      ],
+      "mustNotInclude": [
+        "/edit"
+      ]
     }
   ]
 }
