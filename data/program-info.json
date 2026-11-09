@@ -394,15 +394,15 @@
       "time": "12pm - 2pm PT",
       "activity": "Presentation to PAV",
       "details": "Present your one slide to the PAV team, and turn in your full plan (pages 1 and 2) beforehand",
-      "dueDate": "Slides and two-page plan due to Eman by 5pm PT, Monday, November 9",
+      "dueDate": "Slides and two-page plan due by 5pm PT, Monday, November 9 (upload to the Drive folder or email Eman)",
       "platform": "Microsoft Teams",
       "joinLink": "https://teams.microsoft.com/meet/2821687866507030?p=mvxFXQDhY2Js9cpGwT",
       "meetingId": "282 168 786 650 703 0",
       "passcode": "CZ38Pr94",
-      "submission": "Send your slides and two-page plan (Pages 1 and 2 of the spreadsheet) directly to Eman (<@U0C6J5X39NU>) by 5pm PT on Monday, November 9.",
+      "submission": "Two ways to submit, both due by 5pm PT on Monday, Nov 9: (1) upload to the shared submission folder in Google Drive: https://drive.google.com/drive/folders/1Hw3HzpGdd38siIjgacA3jdovGYqAEIuy?usp=drive_link , or (2) email them to Eman at emchan@rei.com. If uploading: put your strategic plan (Pages 1 and 2) in the \"Strategic Plans\" folder (https://drive.google.com/drive/folders/1eHym0nEcNBv51YdP8Of60yeD7F6d86ki) and your slide in the \"PAV Presentation Slide\" folder (https://drive.google.com/drive/folders/1J-X4mnMI9SS2XTQviiWwD3mdHo35xLSX). Name each file like the example file in that folder: CompanyName_FirstName_LastName_Strategic Plan (for example, COBA_Peter_Lee_Strategic Plan) and CompanyName_FirstName_LastName_PAV Presentation Slide (for example, COBA_Peter_Lee_PAV Presentation Slide). Don't edit or rename the example files. If you can't upload, just email Eman.",
       "format": "Each founder gets a 10-minute slot: about 3 minutes presenting your high-level plan (your goals and your strategic initiatives), plus one ask of the Path Ahead team, then about 7 minutes of Q&A.",
       "audience": "The Path Ahead Ventures team: Susan, Keenan Corrigan (Director of Path Ahead Ventures), Elizabeth, Nicole and Eman, plus your advisors Mina and Mona.",
-      "slide": "Prepare one slide covering your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team. Use the slide template (Google Slides). Make your own copy first with this link: https://docs.google.com/presentation/d/1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/copy . Please do not edit the original template directly. One page only; you can change the look as long as all the content is there. Send your slide and your final Pages 1 and 2 to Eman by 5pm PT Monday, Nov 9.",
+      "slide": "Prepare one slide covering your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team. Use the slide template (Google Slides). Make your own copy first with this link: https://docs.google.com/presentation/d/1qps1qtaWYrJg5PXFzaiCCq9WPxMgZxWotiAZeWqVYIQ/copy . Please do not edit the original template directly. One page only; you can change the look as long as all the content is there. Submit your slide and your final Pages 1 and 2 by 5pm PT Monday, Nov 9, either in the shared Drive folder or by email to Eman (see submissions).",
       "theAsk": "One realistic, doable ask of the Path Ahead team that would help you achieve your plan. For example: introductions to founders who have sold into convenience stores, or someone to explain how the REI buying calendar works.",
       "tone": "Low pressure and low risk, with no strings attached. It's a chance for the PAV team to get to know you and your plan.",
       "signUp": "No sign-up needed. The order of presentations is set (see runOfShow). Join a few minutes before your slot. Watching other founders present is encouraged but optional.",
@@ -521,7 +521,7 @@
         "howToUse": "Make your own copy first. The easiest way is the copy link, which opens a 'Make a copy' button that saves the slide to your own Google Drive. Or open the original and go to File > Make a copy. Please do not edit the original template directly, since every founder shares it. Rename your copy with your company name.",
         "contents": "Page 1 is the slide to fill in: company name, your 2029 goals (up to four, each with a target), one strategic initiative in each of the five areas (Sales, Marketing, Operations, Product, Financial Model), each starting with a verb, and your Ask of Path Ahead: the ONE thing Path Ahead can do to move you toward your goals. Page 2 is a filled-in example (2029 goals like Revenue $6MM, Profit $750K, Cash $500K, 4 product lines, five initiatives, and an ask for introductions to specialty outdoor, hardware and travel retail buyers).",
         "rules": "One page only. Feel free to change the look and format and make it your own, as long as all the content is there. It supports about 3 minutes of presenting plus 7 minutes of Q&A.",
-        "submit": "Send your finished slide (with your final Pages 1 and 2) to Eman at emchan@rei.com by 5pm PT Monday, Nov 9. Sharing a link to your copy or attaching a PDF or PowerPoint both work."
+        "submit": "Submit by 5pm PT Monday, Nov 9, with your final Pages 1 and 2. Two ways to submit, both due by 5pm PT on Monday, Nov 9: (1) upload to the shared submission folder in Google Drive: https://drive.google.com/drive/folders/1Hw3HzpGdd38siIjgacA3jdovGYqAEIuy?usp=drive_link , or (2) email them to Eman at emchan@rei.com. If uploading: put your strategic plan (Pages 1 and 2) in the \"Strategic Plans\" folder (https://drive.google.com/drive/folders/1eHym0nEcNBv51YdP8Of60yeD7F6d86ki) and your slide in the \"PAV Presentation Slide\" folder (https://drive.google.com/drive/folders/1J-X4mnMI9SS2XTQviiWwD3mdHo35xLSX). Name each file like the example file in that folder: CompanyName_FirstName_LastName_Strategic Plan (for example, COBA_Peter_Lee_Strategic Plan) and CompanyName_FirstName_LastName_PAV Presentation Slide (for example, COBA_Peter_Lee_PAV Presentation Slide). Don't edit or rename the example files. If you can't upload, just email Eman."
       }
     },
     "documents": {
@@ -752,7 +752,7 @@
       },
       {
         "when": "Monday, Nov 9 by 5pm PT (deadline)",
-        "todo": "Send Eman (emchan@rei.com) your final strategic plan (Pages 1 and 2 of the spreadsheet) and your presentation slide."
+        "todo": "Submit your final strategic plan (Pages 1 and 2) and your presentation slide. Two ways to submit, both due by 5pm PT on Monday, Nov 9: (1) upload to the shared submission folder in Google Drive: https://drive.google.com/drive/folders/1Hw3HzpGdd38siIjgacA3jdovGYqAEIuy?usp=drive_link , or (2) email them to Eman at emchan@rei.com. If uploading: put your strategic plan (Pages 1 and 2) in the \"Strategic Plans\" folder (https://drive.google.com/drive/folders/1eHym0nEcNBv51YdP8Of60yeD7F6d86ki) and your slide in the \"PAV Presentation Slide\" folder (https://drive.google.com/drive/folders/1J-X4mnMI9SS2XTQviiWwD3mdHo35xLSX). Name each file like the example file in that folder: CompanyName_FirstName_LastName_Strategic Plan (for example, COBA_Peter_Lee_Strategic Plan) and CompanyName_FirstName_LastName_PAV Presentation Slide (for example, COBA_Peter_Lee_PAV Presentation Slide). Don't edit or rename the example files. If you can't upload, just email Eman."
       },
       {
         "when": "Tuesday, Nov 10, 12 to 2 PM PT",
@@ -780,5 +780,19 @@
         "url": "https://docs.google.com/forms/d/1WfqXPlL9-i8XCF7yZ9iivxxsA1ibSVOdt9NGh_OnTk8/viewform"
       }
     }
-  ]
+  ],
+  "submissions": {
+    "due": "5pm PT, Monday, November 9",
+    "what": "Your final strategic plan (Pages 1 and 2 of the spreadsheet) and your one presentation slide.",
+    "howToSubmit": "Two ways to submit, both due by 5pm PT on Monday, Nov 9: (1) upload to the shared submission folder in Google Drive: https://drive.google.com/drive/folders/1Hw3HzpGdd38siIjgacA3jdovGYqAEIuy?usp=drive_link , or (2) email them to Eman at emchan@rei.com. If uploading: put your strategic plan (Pages 1 and 2) in the \"Strategic Plans\" folder (https://drive.google.com/drive/folders/1eHym0nEcNBv51YdP8Of60yeD7F6d86ki) and your slide in the \"PAV Presentation Slide\" folder (https://drive.google.com/drive/folders/1J-X4mnMI9SS2XTQviiWwD3mdHo35xLSX). Name each file like the example file in that folder: CompanyName_FirstName_LastName_Strategic Plan (for example, COBA_Peter_Lee_Strategic Plan) and CompanyName_FirstName_LastName_PAV Presentation Slide (for example, COBA_Peter_Lee_PAV Presentation Slide). Don't edit or rename the example files. If you can't upload, just email Eman.",
+    "folders": {
+      "main": "https://drive.google.com/drive/folders/1Hw3HzpGdd38siIjgacA3jdovGYqAEIuy?usp=drive_link",
+      "strategicPlans": "https://drive.google.com/drive/folders/1eHym0nEcNBv51YdP8Of60yeD7F6d86ki",
+      "presentationSlide": "https://drive.google.com/drive/folders/1J-X4mnMI9SS2XTQviiWwD3mdHo35xLSX"
+    },
+    "namingConvention": {
+      "strategicPlan": "CompanyName_FirstName_LastName_Strategic Plan",
+      "slide": "CompanyName_FirstName_LastName_PAV Presentation Slide"
+    }
+  }
 }

@@ -542,6 +542,31 @@
       "mustNotInclude": [
         "/edit"
       ]
+    },
+    {
+      "question": "How do I submit my plan and slide?",
+      "mustIncludeAny": [
+        [
+          "1Hw3HzpGdd38siIjgacA3jdovGYqAEIuy",
+          "1eHym0nEcNBv51YdP8Of60yeD7F6d86ki"
+        ],
+        [
+          "emchan@rei.com"
+        ],
+        [
+          "5pm",
+          "5 pm"
+        ]
+      ]
+    },
+    {
+      "question": "What should I name my file when I upload it?",
+      "asker": "Peter Lee",
+      "mustIncludeAny": [
+        [
+          "COBA_Peter_Lee"
+        ]
+      ]
     }
   ]
 }
