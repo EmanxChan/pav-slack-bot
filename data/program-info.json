@@ -391,7 +391,7 @@
     },
     {
       "date": "Tuesday, November 10",
-      "time": "12pm - 2pm PT",
+      "time": "12pm - 1:50pm PT",
       "activity": "Presentation to PAV",
       "details": "Present your one slide to the PAV team, and turn in your full plan (pages 1 and 2) beforehand",
       "dueDate": "Slides and two-page plan due by 5pm PT, Monday, November 9 (upload to the Drive folder or email Eman)",
@@ -407,7 +407,7 @@
       "tone": "Low pressure and low risk, with no strings attached. It's a chance for the PAV team to get to know you and your plan.",
       "signUp": "No sign-up needed. The order of presentations is set (see runOfShow). Join a few minutes before your slot. Watching other founders present is encouraged but optional.",
       "runOfShow": {
-        "note": "Order of presentations for Tuesday, Nov 10 (all times PT). Each founder slot is 10 minutes: about 3 minutes presenting and 7 minutes of Q&A. Share the order freely, but do not share or link the planning spreadsheet. If a founder needs to swap slots, they should email Eman at emchan@rei.com.",
+        "note": "Final order of presentations for Tuesday, Nov 10 (all times PT), updated Nov 9. 10 companies present; the session runs 12:00 to 1:50 PM. Each founder slot is 10 minutes: about 3 minutes presenting and 7 minutes of Q&A. Share the order freely, but do not share or link the planning spreadsheet. MONKEYHANDS is not on the presentation schedule; if someone from MONKEYHANDS asks, point them to Eman (emchan@rei.com). Slot swaps also go to Eman.",
         "slots": [
           {
             "time": "12:00 to 12:05 PM",
@@ -416,72 +416,66 @@
           },
           {
             "time": "12:05 to 12:15 PM",
-            "slot": 1,
             "company": "Pao Labs",
-            "presenting": "Celena Chan, Zack Yu"
+            "presenting": "Celena Chan, Zack Yu",
+            "slot": 1
           },
           {
             "time": "12:15 to 12:25 PM",
-            "slot": 2,
             "company": "CLIP",
-            "presenting": "Som Ray"
+            "presenting": "Som Ray",
+            "slot": 2
           },
           {
             "time": "12:25 to 12:35 PM",
-            "slot": 3,
-            "company": "MONKEYHANDS",
-            "presenting": "Daniele De Paolis"
+            "company": "Parapack.co",
+            "presenting": "Ian Hughes",
+            "slot": 3
           },
           {
             "time": "12:35 to 12:45 PM",
-            "slot": 4,
-            "company": "Parapack.co",
-            "presenting": "Ian Hughes"
+            "company": "COBA",
+            "presenting": "Peter Lee",
+            "slot": 4
           },
           {
             "time": "12:45 to 12:55 PM",
-            "slot": 5,
-            "company": "COBA",
-            "presenting": "Peter Lee"
+            "company": "PYNR (PIONEERS Apparel)",
+            "presenting": "Sidney Baptista",
+            "slot": 5
           },
           {
             "time": "12:55 to 1:05 PM",
-            "slot": 6,
-            "company": "PYNR (PIONEERS Apparel)",
-            "presenting": "Sidney Baptista"
+            "company": "Swift Running",
+            "presenting": "Pooja Bansal",
+            "slot": 6
           },
           {
             "time": "1:05 to 1:15 PM",
-            "slot": 7,
-            "company": "Urban Native Era",
-            "presenting": "Joey Montoya"
+            "company": "Meat Shredz (Wow Foods)",
+            "presenting": "Steve Song",
+            "slot": 7
           },
           {
             "time": "1:15 to 1:25 PM",
-            "slot": 8,
-            "company": "Swift Running",
-            "presenting": "Pooja Bansal"
+            "company": "Tuyyo Foods",
+            "presenting": "Stefanie Garcia Turner, Regina Trillo",
+            "slot": 8
           },
           {
             "time": "1:25 to 1:35 PM",
-            "slot": 9,
-            "company": "Meat Shredz (Wow Foods)",
-            "presenting": "Steve Song"
+            "company": "Campfire Coffee",
+            "presenting": "Quincy Henry, Whitni Henry",
+            "slot": 9
           },
           {
             "time": "1:35 to 1:45 PM",
-            "slot": 10,
-            "company": "Tuyyo Foods",
-            "presenting": "Stefanie Garcia Turner, Regina Trillo"
+            "company": "Urban Native Era",
+            "presenting": "Joey Montoya",
+            "slot": 10
           },
           {
-            "time": "1:45 to 1:55 PM",
-            "slot": 11,
-            "company": "Campfire Coffee",
-            "presenting": "Quincy Henry, Whitni Henry"
-          },
-          {
-            "time": "1:55 to 2:00 PM",
+            "time": "1:45 to 1:50 PM",
             "company": "Wrap-up and thank you",
             "presenting": "Eman"
           }
@@ -755,7 +749,7 @@
         "todo": "Submit your final strategic plan (Pages 1 and 2) and your presentation slide. Two ways to submit, both due by 5pm PT on Monday, Nov 9: (1) upload to the shared submission folder in Google Drive: https://drive.google.com/drive/folders/1Hw3HzpGdd38siIjgacA3jdovGYqAEIuy?usp=drive_link , or (2) email them to Eman at emchan@rei.com. If uploading: put your strategic plan (Pages 1 and 2) in the \"Strategic Plans\" folder (https://drive.google.com/drive/folders/1eHym0nEcNBv51YdP8Of60yeD7F6d86ki) and your slide in the \"PAV Presentation Slide\" folder (https://drive.google.com/drive/folders/1J-X4mnMI9SS2XTQviiWwD3mdHo35xLSX). Name each file like the example file in that folder: CompanyName_FirstName_LastName_Strategic Plan (for example, COBA_Peter_Lee_Strategic Plan) and CompanyName_FirstName_LastName_PAV Presentation Slide (for example, COBA_Peter_Lee_PAV Presentation Slide). Don't edit or rename the example files. If you can't upload, just email Eman."
       },
       {
-        "when": "Tuesday, Nov 10, 12 to 2 PM PT",
+        "when": "Tuesday, Nov 10, 12 to 1:50 PM PT",
         "todo": "Present to the PAV team: about 3 minutes on your one slide (your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team), then about 7 minutes of Q&A.",
         "after": "After presenting, fill out the final feedback survey (about 5 to 7 minutes): https://docs.google.com/forms/d/1WfqXPlL9-i8XCF7yZ9iivxxsA1ibSVOdt9NGh_OnTk8/viewform"
       }
