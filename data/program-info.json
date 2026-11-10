@@ -391,7 +391,7 @@
     },
     {
       "date": "Tuesday, November 10",
-      "time": "12pm - 1:50pm PT",
+      "time": "12pm - 1:40pm PT",
       "activity": "Presentation to PAV",
       "details": "Present your one slide to the PAV team, and turn in your full plan (pages 1 and 2) beforehand",
       "dueDate": "Slides and two-page plan due by 5pm PT, Monday, November 9 (upload to the Drive folder or email Eman)",
@@ -407,7 +407,7 @@
       "tone": "Low pressure and low risk, with no strings attached. It's a chance for the PAV team to get to know you and your plan.",
       "signUp": "No sign-up needed. The order of presentations is set (see runOfShow). Join a few minutes before your slot. Watching other founders present is encouraged but optional.",
       "runOfShow": {
-        "note": "Final order of presentations for Tuesday, Nov 10 (all times PT), updated Nov 9. 10 companies present; the session runs 12:00 to 1:50 PM. Each founder slot is 10 minutes: about 3 minutes presenting and 7 minutes of Q&A. Share the order freely, but do not share or link the planning spreadsheet. MONKEYHANDS is not on the presentation schedule; if someone from MONKEYHANDS asks, point them to Eman (emchan@rei.com). Slot swaps also go to Eman.",
+        "note": "Final order of presentations for Tuesday, Nov 10 (all times PT), updated Nov 10. 9 companies present; the session runs 12:00 to 1:40 PM. Each founder slot is 10 minutes: about 3 minutes presenting and 7 minutes of Q&A. Share the order freely, but do not share or link the planning spreadsheet. MONKEYHANDS and Urban Native Era are not on the presentation schedule; if someone from either company asks, point them to Eman (emchan@rei.com). Slot swaps also go to Eman.",
         "slots": [
           {
             "time": "12:00 to 12:05 PM",
@@ -469,13 +469,7 @@
             "slot": 9
           },
           {
-            "time": "1:35 to 1:45 PM",
-            "company": "Urban Native Era",
-            "presenting": "Joey Montoya",
-            "slot": 10
-          },
-          {
-            "time": "1:45 to 1:50 PM",
+            "time": "1:35 to 1:40 PM",
             "company": "Wrap-up and thank you",
             "presenting": "Eman"
           }
@@ -749,7 +743,7 @@
         "todo": "Submit your final strategic plan (Pages 1 and 2) and your presentation slide. Two ways to submit, both due by 5pm PT on Monday, Nov 9: (1) upload to the shared submission folder in Google Drive: https://drive.google.com/drive/folders/1Hw3HzpGdd38siIjgacA3jdovGYqAEIuy?usp=drive_link , or (2) email them to Eman at emchan@rei.com. If uploading: put your strategic plan (Pages 1 and 2) in the \"Strategic Plans\" folder (https://drive.google.com/drive/folders/1eHym0nEcNBv51YdP8Of60yeD7F6d86ki) and your slide in the \"PAV Presentation Slide\" folder (https://drive.google.com/drive/folders/1J-X4mnMI9SS2XTQviiWwD3mdHo35xLSX). Name each file like the example file in that folder: CompanyName_FirstName_LastName_Strategic Plan (for example, COBA_Peter_Lee_Strategic Plan) and CompanyName_FirstName_LastName_PAV Presentation Slide (for example, COBA_Peter_Lee_PAV Presentation Slide). Don't edit or rename the example files. If you can't upload, just email Eman."
       },
       {
-        "when": "Tuesday, Nov 10, 12 to 1:50 PM PT",
+        "when": "Tuesday, Nov 10, 12 to 1:40 PM PT",
         "todo": "Present to the PAV team: about 3 minutes on your one slide (your goals, your strategic initiatives across the five areas, and one realistic ask of the Path Ahead team), then about 7 minutes of Q&A.",
         "after": "After presenting, fill out the final feedback survey (about 5 to 7 minutes): https://docs.google.com/forms/d/1WfqXPlL9-i8XCF7yZ9iivxxsA1ibSVOdt9NGh_OnTk8/viewform"
       }
